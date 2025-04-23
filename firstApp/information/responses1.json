@@ -1,0 +1,22 @@
+{
+    "greeting": [
+        "Hello! How can I assist you today?",
+        "Hi there! What's on your mind?",
+        "Hey! How can I help you?"
+    ],
+    "goodbye": [
+        "Goodbye! It was nice chatting with you.",
+        "See you later! Have a great day.",
+        "Bye for now! Feel free to come back and chat with me anytime."
+    ],
+    "thanks": [
+        "You're welcome! Is there anything else I can help you with?",
+        "No problem! I'm here to help.",
+        "Anytime! Have a great day."
+    ],
+    "help": [
+        "I can help you with a variety of things, such as answering questions about our college, providing information about our courses, and more.",
+        "How can I assist you today? Do you have any specific questions or topics you'd like to discuss?",
+        "I'm here to help with any questions or concerns you may have. What's on your mind?"
+    ]
+}

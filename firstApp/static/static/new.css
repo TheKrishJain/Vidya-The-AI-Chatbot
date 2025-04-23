@@ -1,0 +1,145 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.form-container {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    width: 400px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    color: #c0392b;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+label {
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #333;
+    display: block;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+input:focus {
+    border-color: #c0392b;
+    outline: none;
+}
+.checkbox-group {
+    display: flex;
+    align-items: center; /* Align checkbox and label */
+    justify-content: flex-start; /* Ensure checkbox and text are aligned left */
+    margin-top: 10px;
+}
+
+.checkbox-group input {
+    display: none; /* Hide the default checkbox */
+}
+
+.checkbox-group label {
+    position: relative;
+    padding-left: 30px; /* Space for custom checkbox */
+    cursor: pointer;
+    font-size: 16px;
+    color: #333;
+}
+
+.checkbox-group label::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 13px;
+    height: 13px;
+    border: 2px solid #c0392b;
+    background-color: white;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+.checkbox-group input:checked + label::before {
+    background-color: #c0392b; /* Red background when checked */
+    border-color: #c0392b;
+}
+
+.checkbox-group input:checked + label::after {
+    content: '\2713'; /* Checkmark character */
+    position: absolute;
+    left: 2px;
+    bottom: 0.5px;
+    font-size: 13px;
+    color: white; /* Red tick mark */
+}
+
+button {
+    background-color: #c0392b;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+
+.chart-container {
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+}
+canvas {
+    max-width: 100%;
+    height: auto;
+}
+
+
+button:hover {
+    background-color: #a93226;
+}
+
+.hidden {
+    display: none;
+}
+
+p {
+    text-align: center;
+    margin-top: 15px;
+}
+
+a {
+    color: #c0392b;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,193 @@
+* {
+    box-sizing: border-box;
+}
+
+
+/* General Styling */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    background-color: #c0392b; /* Dark red color */
+    color: white;
+    padding: 10px 15px; /* Reduced padding for a thinner navbar */
+    display: flex;
+    align-items: center;
+    position: relative;
+    height: 50px; /* Fixed height for the navbar */
+}
+
+.hamburger {
+    cursor: pointer;
+    font-size: 20px; /* Font size for the hamburger icon */
+    margin-right: 15px; /* Space between hamburger and title */
+}
+
+.user-info {
+    margin-left: auto; /* Push user info to the right */
+    display: flex;
+    align-items: center;
+}
+
+.user-icon {
+    background-color: white; /* White background for user icon */
+    color: #c0392b; /* Dark red color for text */
+    border-radius: 50%; /* Circular shape */
+    width: 35px; /* Width of the user icon */
+    height: 35px; /* Height of the user icon */
+    display: flex;
+    justify-content: center; /* Center text horizontally */
+    align-items: center; /* Center text vertically */
+    font-weight: bold; /* Bold text */
+    margin-right: 10px; /* Space between icon and button */
+}
+
+.signout-button {
+    background-color: white; /* White background for button */
+    color: #c0392b; /* Dark red text */
+    border: none; /* No border */
+    padding: 8px 12px; /* Padding for the button */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    font-weight: 500; /* Medium font weight */
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+.signout-button:hover {
+    background-color: #e74c3c; /* Lighter red on hover */
+    color: white; /* White text on hover */
+}
+
+.sidebar {
+    width: 250px; /* Width of the sidebar */
+    height: 100%; /* Full height */
+    background-color: #e74c3c; /* Lighter red for sidebar */
+    color: white; /* White text */
+    position: fixed; /* Fixed position */
+    left: -250px; /* Hide sidebar initially */
+    transition: left 0.3s ease; /* Smooth transition for sidebar */
+    padding-top: 50px; /* Space for navbar */
+
+}
+.sidebar ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0; /* Remove padding */
+}
+
+.sidebar ul li {
+    display: flex; /* Use flexbox for alignment */
+    align-items: center; /* Center items vertically */
+    padding: 20px; /* Padding for each menu item */
+    
+    text-align: left; /* Left align text */
+    cursor: pointer; /* Pointer cursor on hover */
+    font-size: 20px; /* Icon size */
+}
+
+.sidebar ul li i {
+    margin-right: 10px; /* Space between icon and text */
+    color: white; /* Icon color */
+    font-size: 22px; /* Icon size */
+}
+
+.sidebar ul li.active {
+    background-color: #c0392b; /* Dark red for active item */
+    color: white; /* White text for active item */
+}
+
+.sidebar ul li:hover {
+    background-color: #b0302a; /* Slightly darker red on hover */
+}
+
+
+.content {
+    margin-left: 0; /* No margin initially */
+    transition: margin-left 0.3s ease; /* Smooth transition for content */
+    padding: 20px; /* Padding for content area */
+}
+
+.sidebar.active {
+    left: 0; /* Show sidebar */
+}
+
+.content.active {
+    margin-left: 250px; /* Shift content to the right when sidebar is active */
+}
+
+.tab-content {
+    display: none; /* Hide all tab content by default */
+}
+
+.tab-content.active {
+    display: block; /* Show active tab content */
+}
+
+.analytics {
+    display: flex; /* Flexbox for analytics items */
+    justify-content: space-around; /* Space items evenly */
+    margin-top: 20px; /* Space above analytics section */
+}
+
+.analytics-item {
+    background-color: white; /* White background for analytics items */
+    border-radius: 5px; /* Rounded corners */
+    padding: 20px; /* Padding for analytics items */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    flex: 1; /* Flex-grow to fill space */
+    margin: 0 10px; /* Margin between items */
+}
+
+form {
+    background-color: white; /* White background for the form */
+    padding: 20px; /* Padding for the form */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0 , 0, 0.1); /* Subtle shadow for the form */
+    margin-top: 20px; /* Space above the form */
+}
+
+label {
+    display: block; /* Block display for labels */
+    margin-bottom: 5px; /* Space below labels */
+    font-weight: 500; /* Medium font weight */
+}
+
+input[type="text"],
+input[type="file"] {
+    width: 100%; /* Full width for inputs */
+    padding: 10px; /* Padding for inputs */
+    border: 1px solid #ccc; /* Light border */
+    border-radius: 5px; /* Rounded corners */
+    margin-bottom: 15px; /* Space below inputs */
+}
+
+button[type="submit"] {
+    background-color: #c0392b; /* Dark red background for submit button */
+    color: white; /* White text */
+    border: none; /* No border */
+    padding: 10px 15px; /* Padding for button */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    font-weight: 500; /* Medium font weight */
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+button[type="submit"]:hover {
+    background-color: #e74c3c; /* Lighter red on hover */
+}
+
+#upload-status {
+    margin-top: 10px; /* Space above upload status */
+    font-weight: bold; /* Bold text for status */
+}
+
+#upload-status.success {
+    color: green; /* Green color for success messages */
+}
+
+#upload-status.error {
+    color: red; /* Red color for error messages */
+}

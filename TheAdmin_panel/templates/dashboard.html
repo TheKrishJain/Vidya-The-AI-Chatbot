@@ -1,0 +1,191 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="{% static 'styless.css' %}">
+    
+</head>
+<body>
+    <div class="navbar">
+        <div class="hamburger" id="hamburger">&#9776;</div>
+        <h4>Admin Panel</h4>
+        <div class="user-info">
+            <div class="user-icon">A</div>
+            <button class="signout-button" id="signoutbtn">Sign Out</button>
+        </div>
+    </div>
+    <div class="sidebar" id="sidebar">
+        <ul>
+            <li id="dashboard-link"><i class="fas fa-tachometer-alt"></i> Dashboard</li>
+            <li id="upload-pdf-link"><i class="fas fa-file-upload"></i> Upload PDF</li>
+            <li id="send-notification-link"><i class="fas fa-bell"></i> Send Notification</li>
+            {% comment %} <li id="dialogflow-intents-link"><i class="fas fa-robot"></i> Dialogflow Intents</li> {% endcomment %}
+        </ul>
+    </div>
+    <div class="content" id="content">
+        <div id="dashboard" class="tab-content active">
+            <h2 id="header2">Analytics Dashboard&nbsp; <button id="refresh" title="Refresh"> <i id="refreshicon" class="fa fa-refresh"></i></button></h2>
+            <div class="analytics">
+                <div class="analytics-item" id="users-visited-item">
+                    <h3>Users Visited</h3>
+                    <p id="users-visited">0</p>
+                </div>
+                <div class="analytics-item">
+                    <h3>Inquiries Done</h3>
+                    <p id="inquiries-done">0</p>
+                </div>
+                <div class="analytics-item">
+                    <h3>Most Asked Questions</h3>
+                    <p id="most-asked-questions">-</p>
+                </div>
+                <div class="analytics-item" id="unique-user">
+                    <h3>Unique Visitors</h3>
+                    <p id="unique-visitors">0</p>
+                </div>
+                <div class="analytics-item">
+                    <h3>Avg Time Per User</h3>
+                    <p id="avg-time-per-user">0</p>
+                </div>
+                <div class="analytics-item">
+                    <h3>Avg Response Time</h3>
+                    <p id="avg-response-time">0</p>
+                </div>
+          
+                <div class="analytics-item">
+                    <div class="time-filter">
+                        <label for="timeRange">Select Time Range:</label>
+                        <select id="timeRange">
+                          <option value="current">This Month</option>
+                          <option value="previous">Previous Month</option>
+                          <option value="last3">Last 3 Months</option>
+                        </select>
+                      </div>
+                      
+                    <h3>Messages Per Day</h3>
+                    <canvas id="barChart"></canvas>
+                </div>
+                <div class="analytics-item">
+                    <h3>Messages Trend</h3>
+                    <canvas id="lineChart"></canvas>
+                </div>
+                <div class="analytics-item">
+                    <h3>Inquiry Types</h3>
+                    <canvas id="pieChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <div id="upload-pdf" class="tab-content" style="display: none;">
+            <h2 id="header2">Upload PDF</h2>
+            <form id="pdf-upload-form">
+                {% csrf_token %}
+                <label for="pdf-name">PDF Name:</label>
+                <input type="text" id="pdf-name" required>
+                <label for="pdf-alias">Alias Name:</label>
+                <input type="text" id="pdf-alias" required>
+                <label for="pdf-file">Upload PDF:</label>
+                <input type="file" id="pdf-file" accept=".pdf" required>
+                <button type="submit" id='uploadbtn'>Upload</button>
+            </form>
+            <div id="upload-status"></div>
+        </div>
+
+        <div id="send-notification" class="tab-content" style="display: none;">
+            <h2 id="header2">Send Notification</h2>
+            <form id="notification-form">
+                {% csrf_token %}
+                <label for="notification-subject">Subject:</label>
+                <input type="text" id="notification-subject" required>
+                
+                <label for="notification-message">Message:</label>
+                <textarea id="notification-message" rows="10" required></textarea>
+                
+                <label for="notification-type">Notification Type:</label>
+                <select id="notification-type" required>
+                    <option value="other">Other Notification</option>
+                    <option value="event">Event Notification</option>
+                    <option value="reminder">Reminder</option>
+                    <option value="update">Update</option>
+                </select>
+                
+                <div class="button-container">
+                    <button type="submit" id='send-notification-btn'>Send Notification</button>
+                </div>
+            </form>
+            <div id="notification-status"></div>
+        </div>
+
+
+
+
+    
+<!-- New section for top questions -->
+<div id="top-questions-screen" class="tab-content" style="display: none;">
+    <button id="back-button" class="back-btn" onclick="backToDashboard()">
+        <i class="fa fa-arrow-left"></i> Back
+    </button>
+    <h2>Top Questions and Frequencies</h2>
+    <table id="top-questions-table">
+        <thead>
+            <tr>
+                <th>Question</th>
+                <th>Frequency</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Top questions and frequencies will be populated ahere -->
+        </tbody>
+    </table>
+</div>
+        <!-- New section for user details table -->
+        <div id="user-details" class="tab-content" style="display: none;">
+            <button id="back-button1" class="back-btn">
+                <i class="fa fa-arrow-left"></i> Back
+            </button>
+            <h2 id="header2">UserDetails</h2>
+            <table id="user-details-table">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Phone No</th>
+                        <th>Start Time</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Rows will be populated by JavaScript -->
+                </tbody>
+            </table>
+        </div>
+
+        <div id="user-details-unique" class="tab-content" style="display: none;">
+            <button id="back-button2" class="back-btn">
+                <i class="fa fa-arrow-left"></i> Back
+            </button>
+            <h2 id="header2">Unique User Details</h2>
+            <table id="unique-user-details-table">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Phone No</th>
+                        <th>Latest Time</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Rows will be populated by JavaScript -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+    </div>
+    <script src="{% static 'scripts.js' %}"></script>
+</body>
+</html>

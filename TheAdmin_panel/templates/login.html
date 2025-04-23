@@ -1,0 +1,62 @@
+{%load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="{% static 'new.css' %}">
+    <script src="{% static 'scripts.js' %}" defer></script>
+</head>
+<body>
+    <div class="container">
+        <div class="form-container">
+            <form id="loginForm" class="form" onsubmit="handleLogin(event)">
+                {% csrf_token %}
+                <h2>Admin Login</h2>
+                <div class="input-group">
+                    <label for="loginEmail">Username</label>
+                    <input type="text" id="loginEmail" name="username" placeholder="Enter your username" required>
+                </div>
+                <div class="input-group">
+                    <label for="loginPassword">Password</label>
+                    <input type="password" id="loginPassword" name="password" placeholder="Enter your password" required>
+                </div>
+                <div class="input-group">
+                    <div class="checkbox-group">
+                        <input type="checkbox" id="rememberMe" name="rememberMe">
+                        <label for="rememberMe">Remember Me</label>
+                    </div>
+                </div>
+                <button type="submit">Login</button>
+                <p>Don't have an account? <a href="#" onclick="toggleForms()">Sign Up</a></p>
+            </form>
+            
+    
+
+            <form id="signupForm" class="form hidden" onsubmit="return handleSignup(event)">
+                <h2>Create Admin Account</h2>
+                <div class="input-group">
+                    <label for="signupEmail">username</label>
+                    <input type="text" id="signupEmail" placeholder="Enter your username" required>
+                </div>
+                <div class="input-group">
+                    <label for="signupPassword">Password</label>
+                    <input type="password" id="signupPassword" placeholder="Create a password" required>
+                </div>
+                <div class="input-group">
+                    <label for="signupConfirmPassword">Confirm Password</label>
+                    <input type="password" id="signupConfirmPassword" placeholder="Confirm your password" required>
+                </div>
+                <button type="submit">Sign Up</button>
+                <p>Already have an account? <a href="#" onclick="toggleForms()">Login</a></p>
+            </form>
+        </div>
+    </div>
+
+
+
+    
+
+</body>
+</html>

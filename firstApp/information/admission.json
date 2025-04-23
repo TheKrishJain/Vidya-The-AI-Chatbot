@@ -1,0 +1,156 @@
+{
+  "url": "https://vsit.edu.in/admissions.html",
+  "title": "VSIT | ADMISSIONS",
+  "introduction": [
+    "Vidyalankar School of Information Technology offers various Undergraduate, Postgraduate and Doctoral programmes in Information Technology, Commerce, Management and Mass Media, the syllabus is prescribed by University of Mumbai. The courses are approved by University Grants Commission (UGC) and recognized by Govt. of Maharashtra.",
+    "Current students and all those in the quest for admission to Vidyalankar School of Information Technology, welcome to a secure harbor on your voyage towards academic success! This section will give you an idea about the various Undergraduate, Postgraduate courses that VSIT offers. One can also get to know how students here are motivated to realize their full potential and what we mean by affirming that we provide a holistic educational experience."
+  ],
+  "eligibility_criteria": {
+    "BSc_IT": [
+      "A candidate must have passed XII standard examination of the Maharashtra Board of Higher Secondary Education or its equivalent with Mathematics and Statistics as one of the subjects. They should have secured not less than 45% marks in aggregate for the open category and 40% for the Reserved category candidates."
+    ],
+    "BSc_Data_Science": [
+      "A candidate must have passed XII standard examination of the Maharashtra Board of Higher Secondary Education or its equivalent and should have secured not less than 45% marks in aggregate for open category and 40% for Reserved category candidates."
+    ],
+    "Diploma_Admission": [
+      "Candidates who have passed a Diploma in Information Technology/Computer Technology/Computer Engineering/Computer Science/Mechanical Engineering and related fields are eligible for direct admission to the second year of the B.Sc. (Data Science) degree course."
+    ],
+    "BCom_AF": [
+      "A candidate must have passed XII std. Examination of the Maharashtra Board of Higher Secondary Education or its equivalent and secured not less than 45% marks in aggregate for open category candidates (40% for reserved category)."
+    ],
+    "BMS": [
+      "A candidate must have passed H.S.C. Examination of the Maharashtra Board of Higher Secondary Education or its equivalent examination or a Diploma in any Engineering branch after S.S.C."
+    ],
+    "BCom_BI": [
+      "A candidate must have passed XII std. Examination of the Maharashtra State Board of Secondary and Higher Secondary Education, Pune, or its equivalent and secured not less than 45% marks in aggregate for open category candidates (40% for reserved category candidates)."
+    ]
+  },
+  "admission_process": [
+    "Every candidate admitted to the degree course must register themselves with the University of Mumbai."
+  ],
+  "admissions_mail": "admissions@vsit.edu.in",
+  "contact_information": {
+    "address": "Vidyalankar School of Information Technology, Vidyalankar College Marg, Wadala (East), Mumbai - 400037",
+    "phone": "+91 22 2410 42 44",
+    "email": "admissions@vsit.edu.in",
+  "admission_incharge": {
+    "faculty": "Mr. Umesh Koyande",
+    "email": "admissions@vsit.edu.in",
+    "location": "X116",
+    "office_timings": "10.00am to 5.00pm",
+    "landline": "+91 22 2410 4244 Extension: 3101"
+  }
+  },
+  "faq": {
+        "eligibility": {
+            "not_taken_math": "No. Mathematics and Statistics are compulsory for B.Sc.IT.",
+            "commerce_student": "Yes, a pass in Class 12th with Mathematics and Statistics is eligible for B.Sc.IT.",
+            "science_student_BMS": "Yes, a science student can apply for BMS.",
+            "science_student_BAMMC": "Yes, 12th pass from any stream is eligible for BAMMC."
+        },
+        "exam_pattern": "The exam pattern is Semester Based, with a Credit and Grading System.",
+        "diploma_admission": "Yes, diploma students are eligible for direct second-year admission to B.Sc.IT."
+    },
+  "courses": {
+    "undergraduate": [
+      {
+        "course": "B.Sc.IT",
+        "intake": 300,
+        "keywords": [
+          "B.Sc.IT",
+          "BSc IT",
+          "BSc.IT course",
+          "BSc IT intake"
+        ]
+      },
+      {
+        "course": "B.Sc.Data Science",
+        "intake": 60,
+        "keywords": [
+          "B.Sc. Data Science",
+          "Data Science course",
+          "BSc Data Science"
+        ]
+      },
+      {
+        "course": "B.A.F",
+        "intake": 180,
+        "keywords": [
+          "B.A.F",
+          "BCom Accounting and Finance"
+        ]
+      },
+      {
+        "course": "B.M.S. (AICTE Approved)",
+        "intake": 180,
+        "keywords": [
+          "BMS",
+          "Bachelor of Management Studies",
+          "BMS AICTE Approved"
+        ]
+      },
+      {
+        "course": "B.B.I",
+        "intake": 60,
+        "keywords": [
+          "BBI",
+          "BCom Banking and Insurance"
+        ]
+      },
+      {
+        "course": "B.F.M",
+        "intake": 60,
+        "keywords": [
+          "BFM",
+          "BCom Financial Markets"
+        ]
+      },
+      {
+        "course": "B.A.M.M.C",
+        "intake": 120,
+        "keywords": [
+          "BAMMC",
+          "Bachelor of Arts Media and Communication"
+        ]
+      }
+    ],
+    "postgraduate": [
+      {
+        "course": "M.Sc.IT",
+        "intake": 60,
+        "keywords": [
+          "MSc IT",
+          "MSc Information Technology"
+        ]
+      },
+      {
+        "course": "M.Com (Banking & Finance)",
+        "intake": 60,
+        "keywords": [
+          "MCom Banking and Finance"
+        ]
+      },
+      {
+        "course": "M.Com (Accountancy & Auditing)",
+        "intake": 60,
+        "keywords": [
+          "MCom Accountancy and Auditing"
+        ]
+      },
+      {
+        "course": "M.Com (Business Management)",
+        "intake": 60,
+        "keywords": [
+          "MCom Business Management"
+        ]
+      },
+      {
+        "course": "M.A (Entertainment, Media & Advertising)",
+        "intake": 60,
+        "keywords": [
+          "MA Entertainment Media Advertising"
+        ]
+      }
+    ]
+  }
+}

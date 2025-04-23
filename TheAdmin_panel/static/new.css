@@ -1,0 +1,247 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.form-container {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    width: 400px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    color: #c0392b;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+label {
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #333;
+    display: block;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+input:focus {
+    border-color: #c0392b;
+    outline: none;
+}
+.checkbox-group {
+    display: flex;
+    align-items: center; /* Align checkbox and label */
+    justify-content: flex-start; /* Ensure checkbox and text are aligned left */
+    margin-top: 10px;
+}
+
+.checkbox-group input {
+    display: none; /* Hide the default checkbox */
+}
+
+.checkbox-group label {
+    position: relative;
+    padding-left: 30px; /* Space for custom checkbox */
+    cursor: pointer;
+    font-size: 16px;
+    color: #333;
+}
+
+.checkbox-group label::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 13px;
+    height: 13px;
+    border: 2px solid #c0392b;
+    background-color: white;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+.checkbox-group input:checked + label::before {
+    background-color: #c0392b; /* Red background when checked */
+    border-color: #c0392b;
+}
+
+.checkbox-group input:checked + label::after {
+    content: '\2713'; /* Checkmark character */
+    position: absolute;
+    left: 2px;
+    bottom: 0.5px;
+    font-size: 13px;
+    color: white; /* Red tick mark */
+}
+#top-5-questions {
+    margin-top: 10px;
+    list-style-type: disc;
+  }
+  
+button {
+    background-color: #c0392b;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+
+.chart-container {
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+}
+canvas {
+    max-width: 100%;
+    height: auto;
+}
+
+
+button:hover {
+    background-color: #a93226;
+}
+
+.hidden {
+    display: none;
+}
+
+p {
+    text-align: center;
+    margin-top: 15px;
+}
+
+a {
+    color: #c0392b;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+/* Styles for the Send Notification section */
+#send-notification {
+    padding: 20px;
+    max-width: 600px; /* Limit the width for better readability */
+    margin: 0 auto; /* Center the form */
+}
+
+#notification-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /* Consistent spacing between form elements */
+}
+
+#notification-form label {
+    font-weight: bold;
+    font-size: 14px;
+    color: #333; /* Darker text for better readability */
+    margin-bottom: 5px; /* Space between label and input */
+}
+
+#notification-form input,
+#notification-form textarea,
+#notification-form select {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+    width: 100%; /* Full width for inputs */
+    box-sizing: border-box; /* Ensure padding doesn't affect width */
+    background-color: #f9f9f9; /* Light background for inputs */
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+#notification-form input:focus,
+#notification-form textarea:focus,
+#notification-form select:focus {
+    border-color: #ff4444; /* Red border on focus */
+    box-shadow: 0 0 5px rgba(255, 68, 68, 0.5); /* Red glow on focus */
+    outline: none; /* Remove default outline */
+}
+
+#notification-form textarea {
+    resize: vertical; /* Allow vertical resizing */
+    min-height: 150px; /* Set a minimum height */
+}
+
+#notification-form select {
+    appearance: none; /* Remove default dropdown arrow */
+    background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23ff4444%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E");
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    background-size: 12px;
+    padding-right: 30px; /* Add space for custom arrow */
+    cursor: pointer; /* Show pointer cursor for dropdown */
+}
+
+#notification-form select:hover {
+    border-color: #ff4444; /* Red border on hover */
+}
+
+#notification-form select:focus {
+    border-color: #ff4444; /* Red border on focus */
+}
+
+#notification-form button {
+    padding: 12px 20px;
+    background-color: #ff4444; /* Red background for the button */
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    transition: background-color 0.3s ease;
+    margin-top: 10px; /* Add margin to separate from inputs */
+    width: 100%; /* Full width for the button */
+}
+
+#notification-form button:hover {
+    background-color: #cc0000; /* Darker red on hover */
+}
+
+#notification-status {
+    margin-top: 20px;
+    font-weight: bold;
+    text-align: center; /* Center the status message */
+    font-size: 14px;
+    color: #333;
+}
+
+/* Add a container for the button to ensure it's on the next line */
+.button-container {
+    display: flex;
+    justify-content: flex-end; /* Align button to the right */
+    margin-top: 20px; /* Add space above the button */
+}

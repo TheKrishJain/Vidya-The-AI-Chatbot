@@ -1,0 +1,698 @@
+/* General Styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  color: #333;
+  user-select: none;
+}
+
+
+
+/* Add the rotation animation */
+@keyframes rotate360 {
+  0% {
+      transform: rotate(0deg);
+  }
+  100% {
+      transform: rotate(360deg);
+  }
+}
+
+#robot-icon {
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Chatbot Container */
+
+.chatbot-wrapper{
+  position: fixed;
+  bottom: 1rem;
+  right: 15px;
+  width: 380px;
+  height: 90vh;
+
+
+}
+.chatbot-container {
+  width: 380px;
+
+  background-color: #f8cece;
+
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  transition: height 0.3s ease;
+
+  border-radius: 20px;
+}
+
+
+/* Welcome Section */
+.mydiv {
+  position: relative;
+  overflow-y: auto; /* Enable scrolling for content */
+  height: calc(100vh - 60px); /* Dynamic height adjustment */
+  margin-top: 4.18rem; /* Position below the header */
+  padding: 0; /* Removed additional padding */
+}
+
+/* Scrollbar Customization */
+.mydiv::-webkit-scrollbar {
+  width: 8px; /* Width of the scrollbar */
+}
+
+.mydiv::-webkit-scrollbar-thumb {
+  background-color: #d9534f; /* Color of the scrollbar thumb */
+  border-radius: 6px; /* Rounded corners for the scrollbar thumb */
+}
+
+.mydiv::-webkit-scrollbar-track {
+  background-color: #f1f1f1; /* Background color of the scrollbar track */
+}
+
+
+/* Chatbot Header */
+.chatbot-header {
+  position: absolute; /* Fix the header at the top */
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: transparent;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: space-between; /* Distribute space between elements */
+  align-items: center; /* Vertically center the items */
+  height: 50px; /* Set a fixed height for the header */
+border-radius: 20px 20px 0 0;
+  z-index: 10;
+}
+
+/* Chatbot Header Logo */
+.chatbot-logo {
+  position: absolute;
+  left:9.8rem;
+  top: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* Chatbot Logo */
+
+/* Adjust logo size */
+.chatbot-header img {
+  width: 50px;
+  height: 50px;
+  transition: all 0.3s ease;
+}
+
+/* Chatbot Header Text */
+.header-left p {
+  margin: 0; /* Remove default margin */
+  font-size: 18px;
+  text-align: center;
+  padding-left: 10px; /* Add some space on the left */
+  margin-left:7rem ;
+}
+
+/* Header Right Section - Minimize Button */
+.header-right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.chatbot-header .header-left, .chatbot-header .header-right {
+  display: inline-block;
+}
+
+.chatbot-header .header-title {
+  text-align: center;
+}
+
+.chatbot-header button {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+
+
+/* Scroll Effect for Header and Logo */
+.chatbot-container.scrolled .chatbot-header {
+  display: block;
+  position: fixed;
+  top: 0;
+  z-index: 20;
+}
+
+.chatbot-container.scrolled .chatbot-logo {
+  position: relative;
+  top: 0;
+  transform: translateX(-50%); /* Maintain centered position */
+  margin-left: 20px; /* Adjust margin to position the logo correctly */
+}
+/* Welcome Section */
+.chatbot-welcome {
+  text-align:left;
+  padding: 20px; /* Reduced padding */
+  padding-left: 25px;;
+  font-weight: bold;
+  color: white;
+  font-size: 24px;
+  line-height: 1.1; /* Reduced line-height for less vertical space */
+  flex-grow: 1;
+  margin: 0; /* Removed margin to prevent additional spacing */
+  display: flex;
+  left:0;
+  flex-direction: column;
+  justify-content: center; /* Centers text vertically */
+  align-items: left; /* Centers text horizontally */
+  height: 150px; /* Fixed height for consistent layout */
+}
+
+
+
+
+.chatbot-header .header-left, .chatbot-header .header-right {
+  display: inline-block;
+}
+
+.chatbot-header .header-title {
+  text-align: left;
+}
+
+
+
+/* Minimize Button */
+.minimize-btn {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background: none;
+  border: none;
+  color: #333;
+  font-size: 20px;
+  cursor: pointer;
+}
+.header-left{
+  margin-top: 1rem;
+  margin-left: 10px;;
+}
+/* Welcome Section */
+
+
+.chatbot-welcome h1 {
+  margin: 0; /* Removed default margin around h1 elements */
+  padding: 5px 0; /* Added slight padding for separation */
+}
+
+
+
+
+.menu-options {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+.menu-text {
+  font-size: 18px; /* Adjust font size as needed */
+}
+
+.arrow-icon {
+  font-size: 20px;
+}
+
+/* Menu options styling */
+.menu-options {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+.menu-options li {
+  padding: 13px 20px; /* Increase padding on the left and right */
+  border-bottom: 1px solid #ddd; /* Add a bottom border for separation */
+  width: 100%; /* Ensure li elements take up the full width */
+  box-sizing: border-box; /* Ensure padding doesn't affect width */
+  background-color: white; /* White background for each li */
+  border-radius: 10px; /* Rounded corners for each li */
+  margin-bottom: 10px; /* Space between items */
+}
+
+.menu-options a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-decoration: none;
+  color: #333;
+  padding-left: 15px; /* Add padding to the left of the text */
+}
+
+.menu-options a:hover {
+  background-color: transparent; /* Remove hover effect */
+}
+
+
+
+
+
+
+
+/* Hover effect on menu items */
+.menu-options li a:hover i {
+  transform: translateX(5px) scale(1.2);  /* Move the icon to the right and enlarge */
+  color: #d9534f;  /* Change icon color on hover */
+}
+
+.menu-options li a:hover span {
+  color: #d9534f;  /* Change text color on hover */
+}
+
+
+
+
+
+
+
+/* Footer Section */
+.chatbot-footer {
+  position: fixed;
+  background-color: white;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  border-top: 1px solid #ddd;
+  border-radius: 20px; /* Add border-radius for rounded corners */
+  width: 16rem;
+  margin-left: 1.5rem;
+  bottom: 5.6rem;
+}
+
+.footer-btn {
+  background-color: transparent; /* Make the button background transparent */
+  color: #d9534f;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border-radius: 5px; /* Add border-radius for rounded corners */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.footer-btn:hover {
+  background-color: #ff6666;
+  color: white;
+}
+
+.footer-icon {
+  font-size: 24px; /* Adjust icon size as needed */
+  margin-bottom: 5px;
+}
+
+.footer-text {
+  font-size: 14px; /* Adjust font size as needed */
+}
+
+
+
+.powered-by{
+font-size: 13px;
+text-decoration: none;
+margin-left: 5.7rem;
+padding: 0.8rem;
+color: gray;
+
+}
+.powered-by a{
+
+  text-decoration: none;
+
+  color: gray;
+  
+  }
+/* User Info Form */
+.user-info-form input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+}
+
+.user-info-form button {
+  background-color: #d9534f;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+/* Scroll Effect for Header */
+.chatbot-container.scrolled .chatbot-header {
+  display: block;
+}
+
+/* Adjust Chatbot Height */
+.chatbot-container {
+  height: 85vh;
+  margin-right: 20px;
+}
+
+/* Chatbot Toggle Button */
+.chatbot-toggle {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.chatbot-open-btn {
+  background-color: #d9534f;
+  color: white;
+  border-radius: 50%;
+  padding: 20px;
+  font-size: 24px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Adjust Scrollbar */
+.chatbot-container::-webkit-scrollbar {
+  width: 8px;
+}
+
+.chatbot-container::-webkit-scrollbar-thumb {
+  background-color: #d9534f;
+  border-radius: 10px;
+}
+
+.chatbot-container::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}
+
+/* Profile Box */
+
+/* Chatbot Menu */
+
+
+.chatbot-menu {
+  flex-grow: 1;
+  padding: 20px;
+  padding-bottom: 5rem;
+  overflow-y: auto;
+  
+
+}
+
+
+/* Profile Section */
+.profile {
+  display: flex;
+  flex-direction: row; /* Avatar and bot name in a row */
+  align-items: flex-start; /* Align items to the top */
+  margin-bottom: 10px;
+  padding-top: 1rem;
+  margin-left: 2.3rem;
+}
+
+.bot-avatar {
+  width: 50px; /* Match the desired avatar size */
+  height: 50px;
+  border-radius: 50%; /* Makes the image circular */
+  object-fit: cover; /* Ensures the image scales properly */
+  display: block; /* Ensures proper layout within the div */
+  border:1px solid #d9534f;
+}
+
+
+
+/* Bot Name */
+.bot-name {
+  flex-direction: row;
+  font-size: 14px;
+  font-weight: bold;
+  color: #acabab;
+  padding-left: 20px;
+  
+  margin: 5px;
+  
+}
+
+/* Bot Text */
+.bot-text {
+  flex-direction: column; /* Stack text paragraphs vertically */
+  font-size: 14px;
+  color: #494949;
+ 
+  margin-left: 5rem; /* Align with the bot name */
+  text-align: left; /* Align text to the left */
+}
+
+/* Adjust padding for readability */
+.bot-text p {
+  margin: 5px 0; /* Space between paragraphs */
+}
+
+.start-chat{
+  background-color: white;
+  border-radius: 15px;
+  height: auto;
+}
+
+/* Start Chat Button */
+.start-chat-btn {
+  background-color: #d9534f;
+
+  color: white;
+  border: none;
+  padding: 15px 15px;
+  width: 15rem;
+  font-size: 12px;
+  cursor: pointer;
+  border-radius: 10px;
+  text-align: center;
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+
+  
+}
+
+.start-chat-btn h2 {
+  margin: 0;
+}
+/* Chat Form */
+.chat-form-container {
+
+  padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Mobile Styles */
+@media (max-width: 768px) {
+  .chatbot-wrapper {
+    bottom: 1rem;
+    right: 1rem;
+    width: 90%;
+    height: 80vh;
+  }
+
+  .chatbot-container {
+    width: 100%;
+    border-radius: 10px;
+  }
+
+  .chatbot-header {
+    height: 60px;
+    padding: 8px;
+    font-size: 14px;
+  }
+
+  .chatbot-logo img {
+    width: 40px;
+    height: 40px;
+  }
+
+  .chatbot-welcome {
+    padding: 10px;
+    font-size: 20px;
+    height: auto;
+  }
+
+ 
+
+  .chatbot-footer {
+    flex-direction: column;
+    padding: 5px;
+    width: 90%;
+    margin: 0 auto;
+    bottom: 1rem;
+  }
+
+  .footer-btn {
+    padding: 5px 10px;
+    font-size: 14px;
+  }
+
+  .profile {
+    flex-direction: column;
+    align-items: center;
+    margin-left: 0;
+  }
+
+  .bot-avatar {
+    width: 40px;
+    height: 40px;
+  }
+
+  .bot-name {
+    font-size: 12px;
+    padding-left: 0;
+    text-align: center;
+  }
+
+  .bot-text {
+    margin-left: 0;
+    text-align: center;
+    font-size: 12px;
+  }
+
+  .start-chat-btn {
+    width: 100%;
+    font-size: 14px;
+    padding: 10px;
+    margin: 0 auto;
+  }
+}/* Mobile Styles for 432px width */
+@media (max-width: 432px) {
+  /* Scale down the chatbot wrapper */
+  .chatbot-wrapper {
+    right: 10px;
+    width: 85%; /* Slightly increase width for better fit */
+    height: 70vh; /* Reduce height for better screen usage */
+    overflow-y: auto;
+  }
+  .mydiv{
+    margin-top: 40px;
+  }
+
+  /* Scale down the chatbot container */
+  .chatbot-container {
+    width: 100%;
+    border-radius: 8px; /* Smaller radius for mobile */
+  }
+
+  /* Adjust header styling */
+  .chatbot-header {
+    height: 50px; /* Decrease height */
+    padding: 8px;
+    font-size: 15px;
+    position: sticky;
+  
+  }
+.menu-options{
+  padding: auto;
+}
+  /* Scale down the logo */
+  .chatbot-logo img {
+    width: 25px; /* Slightly smaller logo */
+    height: 35px;
+  }
+#start-chat-btn{
+  width: 70%;
+  font-size: 6px;
+  margin-left: 50px;
+}
+  /* Adjust welcome text */
+  .chatbot-welcome {
+    padding: 8px;
+    font-size: 22px; /* Slightly smaller font */
+    height: auto;
+    text-align: left; /* Center text for better readability */
+  }
+.chatbot-menu{
+  margin-bottom: 50px;
+}
+  /* Adjust footer */
+  .chatbot-footer {
+    flex-direction: row;
+    padding: 15px;
+    width: 60%; /* Adjust width to fit better */
+    margin: 50px 50px; /* Center the footer */
+    bottom: 2rem;
+    position: fixed; /* Ensure it's fixed at the bottom */
+  }
+
+  /* Adjust footer button styles */
+  .footer-btn {
+    padding: 6px 10px; /* Increase padding slightly for easier click */
+    font-size: 12px; /* Adjust font size */
+
+    margin-bottom: 5px; /* Add some space between buttons */
+    text-align: center;
+  }
+
+  #footer-home-btn {
+    padding: 0;
+    margin: 0;
+  }
+
+  /* Profile section adjustments */
+  .profile {
+    flex-direction: row;
+    align-items: center;
+    margin-left: 20%;
+  }
+
+  /* Scale down bot avatar */
+  .bot-avatar {
+    width: 35px; /* Slightly smaller avatar */
+    height: 35px;
+  }
+
+  /* Adjust bot name font */
+  .bot-name {
+    font-size: 12px; /* Keep font size manageable */
+    padding-left: 0;
+    text-align: center; /* Center text */
+  }
+
+  /* Adjust bot text layout */
+  .bot-text {
+    margin-left: 0;
+    font-size: 14px; /* Ensure the bot text is readable */
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "prime-force-445815-c4",
+  "private_key_id": "8d819f40300035504fd2b3b908cb54316a660409",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDH2y6CV0ZuezS6\nqaArhfc6QDPKownQWkL426K28AKZvwkC/Mxe35s6BvNVc47tV0bGzsv8P+J9M2QK\nrhIw8oQsKDYc8+pRZdckWRQWPbIZXAM1zZF2rxaxFVl9FpWASH0HOME3miHkc7UC\nC3mWuUdCbnAchUICqvNXC+RC1i+RyDs58Mkj6o1+v1JDz1z/iGU91usGcHqKE4O5\nAgIAB9QWERF06dhiHMZPxoaXrGAB3tDQzw25Xu44TZzwdV6WhzdjuRnrQMY2xYWO\nR+3ivaY5T8NsQdMUTZPfhoS7xxM4sezteTLrtq+ZkP6RaJ1PD+/w+vGZ128t/cFG\n9v4hTxbdAgMBAAECggEAGIRxMXCy9Xk8V/zYpxY1ZMo9AEodeVelWSGalb4eV42Z\ntandCXN9d7IkFlLJkSCwkFGMsSqGJq1QA8ZkeWg64i7hqo4aq/cmHDGoVu0lJNrG\nkwpforNqgXlYw9FqMDVUTzc9bsyEBWJTbYeKWDzs+r+RFdKcLTcbCI3vJ+reJZA3\nAMyfFn4EhvtQ9sze/t5gVgasGDgynfxJsI83iaUune9loeaFJZjZMvLrvdlMFEOg\nxoqfhlLO8hRASv0Tq2b9MPIZozQVcDFgmTL4LGwNwCORvMBhy9zBmL2mCH2dbu09\nkzbo738b8ZdJ1UmMgeoxxL5P8Dc3CSLAos0kk0NnQQKBgQDluzMXER5unP4ApaD/\n+cvaJp9GBk4sKm0qUxkXFMI37VELg4vDZXHD/CYwnesw/MaJi/lAleUzFG/K/wlp\n+19l2dDRN/g+o7KaFn+r9mc9vIJpMA24lGgfCC6dTVY11txMgXqVm/lDe3FZiOSO\nDTa3bqLOBlZoBghSDMpZM2nSnQKBgQDetXcQ7zf//s7MLmHDM/mPxD7QJEHVr/tQ\nPY+xodBaK9quO65u54qHbH+3QGsT66uoJmvoy3xt0ukSgKqHDA+8NO+tNQwnLjyh\nl6+BLCIeUmUG3PgKWRhtr1GC0qZ0+LwxZiDS31IycBfIO2EAF/54RC/B/wNO/vQI\nYm/6RrYBQQKBgQCLy0Zjmv8xwEawjhlSqubpcOcq7VtUdNzJDJgP+4nUDo1qvDmo\nRWrdH+r9Wptry+XkfVDHhG9cjesZU+ienWCH0evH5I8jTum36kj2k5Jvdu7Eo4E1\n+NkDSS9UeWMkkAKua3v03lzoO43WNf8ekdvh82kOhby+wC0AANiBP0/94QKBgG1o\nsKm9G8HDqExerOB89ClQu5r9dOpJnij5VVJqsDTcPn5CC5uoXEHTZ5rbJr+Ok7Hz\nzid7cBFz/9R7KUtW/ZP0XZq16NaGvHqWTj4jNE+5IrCQdbp/sqSP8HdYjTYBzFJo\nXc+6rmLg9o4Dvc+R+g2TUfL4GOQCFFjaIzDM9DUBAoGAOGK9zfLwFnyIzdsgyLUH\n4BvPsUy5XWQ+VcHaeq4setxowl/2LqZA8XQJ1AB9i2XMMHhoqs4gUJwZB1C5Uh3Y\nWGtwNYK8l8v6YhyfEkA4zhQ7jkBBeFYdWWn13NEPK1CJ3exhtRqDIMLDHvzL1hEM\niFWU8Y3r7tHs7tqQpN0nmto=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-agent@prime-force-445815-c4.iam.gserviceaccount.com",
+  "client_id": "100883835215285815838",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-agent%40prime-force-445815-c4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

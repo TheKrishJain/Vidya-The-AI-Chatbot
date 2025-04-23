@@ -1,0 +1,192 @@
+{%load static%}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <link rel="stylesheet" href="{% static 'styles.css' %}">
+    <link rel="stylesheet" href="{% static 'startchat.css' %}">
+    <link rel="stylesheet" href="{% static 'chatbot.css' %}">
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.0/font/bootstrap-icons.min.css" rel="stylesheet">
+
+</head>
+
+<body>
+    <!-- Chatbot Toggle Button -->
+    <div class="chatbot-toggle">
+        <button class="chatbot-open-btn" aria-label="Open Chatbot">
+            <i class="fas fa-comments"></i>
+        </button>
+    </div>
+
+    <!-- Chatbot Wrapper -->
+    <div class="chatbot-wrapper" id="uppercont">
+
+        <!-- Chatbot Main Container -->
+        <div class="chatbot-container">
+
+            <!-- Chatbot Header -->
+            <div class="chatbot-header">
+                <div class="header-left">
+                    <p>Chatbot</p>
+                </div>
+                <div class="chatbot-logo">
+                    <i class="fas fa-robot" id="robot-icon"></i>
+                </div>
+                <div class="header-right">
+                    <button class="minimize-btn" aria-label="Minimize Chatbot" id="minimize-btn"><i
+                            class="fas fa-minus"></i></button>
+                </div>
+            </div>
+
+            <!-- Welcome Section -->
+            <div class="mydiv">
+                <div class="chatbot-welcome">
+                    <h1>How can</h1>
+                    <h1>we help?</h1>
+                </div>
+
+                <!-- Main Menu -->
+                <div class="chatbot-menu">
+                    <div class="start-chat">
+                        <div class="profile">
+                            <img src="static/vidya-circle3.png" alt="Vidya Logo" class="bot-avatar">
+                            <p id="profile-header" class="bot-name">Vidya <br>
+                                <span  id="profile-text" style="font-size: 19px; padding-top:15px;  color: #5a5a5a;">Hello!</span>
+                            </p>
+                        </div>
+
+                        <button class="start-chat-btn" id="start-chat-btn">
+                            <h2>Start Chat</h2>
+                        </button>
+                    </div>
+                    <ul class="menu-options">
+                        <li><a href="https://vsit.edu.in/about.html"><span>About Us</span><i class="fas fa-arrow-right"></i></a></li>
+                        <li><a href="https://vsit.edu.in/news-update.html"><span>What's New!</span><i class="fas fa-arrow-right"></i></a></li>
+                        <li><a href="https://vsit.edu.in/result.html"><span>Check Scores</span><i class="fas fa-arrow-right"></i></a></li>
+                        <li><a href="https://vsit.edu.in/vsitpay.html"><span>Pay Fees</span><i class="fas fa-arrow-right"></i></a></li>
+                    </ul>
+                </div>
+
+                <!-- Footer Panel -->
+                <div class="chatbot-footer">
+                    <button class="footer-btn home-btn" id="footer-home-btn">
+                        <span class="footer-icon"><i class="fas fa-home"></i></span>
+                        <span class="footer-text">Home</span>
+                    </button>
+                    <button class="footer-btn chat-btn" id="footer-chat-btn">
+                        <span class="footer-icon"><i class="fas fa-comments"></i></span>
+                        <span class="footer-text">Chat</span>
+                    </button>
+                </div>
+
+                <!-- Powered By Section -->
+                <div class="powered-by">
+                    <a href="https://example.com" target="_blank" rel="noopener">
+                        <span>Powered by Krish Jain</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Chat Form Container -->
+        <div class="chat-form-container">
+            <div class="chat-form-header">
+                <button class="back-btn opt" aria-label="Back to Menu"><i class="fas fa-arrow-left"></i></button>
+                <button class="options-btn opt" id="options-btn" aria-label="Options"><i
+                        class="fas fa-ellipsis-h"></i></button>
+                <div class="header-title">
+                    <img src="static/vidya-circle3.png" alt="Vidya Logo" class="bot-avatar" title="Vidya"
+                        style="margin-bottom: 10px;">
+                    <p style="margin: 0;">Vidya</p>
+                </div>
+
+                <button class="minimize-btn-form opt" aria-label="Minimize Chatbot"><i
+                        class="fas fa-minus"></i></button>
+
+                        <div class="options-menu" id="options-menu">
+                            <ul>
+                                <li id="send-transcript" class="plane"><i  class="fas fa-paper-plane"></i> Send Transcript</li>
+                                <div id="loading-spinner" class="loading-spinner" style="display: none;">
+                                    <div class="spinner"></div>
+                                </div>
+                                
+                                <li>
+                                    <label for="sound-toggle"><i class="fas fa-volume-up"></i> Sound:</label>
+                                    <label class="switch">
+                                        <input type="checkbox" id="sound-toggle" checked />
+                                        <span class="slider"></span>
+                                    </label>
+                                </li>
+                                <li id="clear-chat"><i class="bi bi-trash"></i> Clear Chat</li>
+                                <li id="login-btns"><i class="fas fa-sign-in-alt"></i> Login</li>
+                                <li id="language-selector">
+                                    <i class="fas fa-globe"></i> Language:
+                                    <select id="language-dropdown" class="language-dropdown">
+                                        <option value="en">English</option>
+                                        <option value="hi">Hindi</option>
+                                        <option value="mr">Marathi</option>
+                                        <!-- Add more languages as needed -->
+                                    </select>
+                                </li>
+                            </ul>
+                        </div>
+
+            </div>
+
+            <!-- Options Menu -->
+
+
+            <div class="chatscreen">
+                <div class="userinformation" id="userinformation">
+                    <div class="user-info-form">
+                        <h3>Hi there! Please enter your name and email to start the chat.</h3>
+                        <label for="first-name">First Name:</label>
+                        <input class='form-input' id="first-name" type="text" placeholder="Enter your full name"
+                            required>
+                        <label for="email">Email:</label>
+                        <input class='form-input' id="email" type="email" placeholder="Enter your email" required>
+                        <label for="phone">Phone Number: <span id="phone-error" style="color: red; display: none; font-size:10px; margin-left:20px;">Phone number <br> should be <b>10 digits<b>.</span></label>
+                       
+                        <input class='form-input' id="phone" type="tel" maxlength="10" placeholder="Enter your phone number">
+
+                        <button class="submit-btn" id="start-chat-button">Start Chat</button>
+                    </div>
+
+                    <div class="powered-by-form">
+                        <a href="https://example.com" target="_blank" rel="noopener">
+                            <span>Powered by Krish Jain</span>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="displayscreen" id="display-screen" style="display: none;">
+                    <div id="chat-log"></div>
+                    
+                    <div id="chat-input-container">
+                        
+                        <div id="suggested-questions" style="display: none;"></div> <!-- Initially hidden -->
+                        <input type="text" id="chat-input" placeholder="Type your message..." />
+                        <button id="send-button"><i class="fa fa-paper-plane"></i></button>
+                    </div>
+                </div>
+
+
+            </div>
+
+
+
+        </div>
+
+    </div>
+
+    <script src="{% static 'script.js' %}"></script>
+</body>
+
+</html>

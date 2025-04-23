@@ -1,0 +1,599 @@
+.chat-form-container {
+  display: none; /* Hidden by default */
+  position: absolute; /* Positioned relative to the parent */
+  top: 0; /* Position it at the top of the chatbot-wrapper */
+  left: 0;
+  width: 100%; /* Full width of its parent */
+  height: calc(94vh - 60px); /* Dynamic height */
+  flex-direction: column;
+  justify-content: flex-start;
+  border-radius: 20px;
+  overflow-y: hidden; /* Allow scrolling if content exceeds height */
+  box-sizing: border-box; /* Include padding and border in width/height */
+  padding: 0; /* Remove any padding from the container */
+  margin: 0; /* Remove any margin from the container */
+  overflow: hidden;
+  user-select: none;
+}
+
+.chat-form-container.visible {
+  display: flex; /* Show the form container */
+}
+
+/* Header Layout */
+.chat-form-header {
+  display: flex;
+  justify-content: space-between; /* Space out the title and minimize button */
+  align-items: center;
+  margin: 0; /* Remove margin */
+  padding: 10px; /* Padding for the header */
+  border-radius: 20px 20px 0 0; /* Rounded corners for the header */
+  background-color: white;
+  flex-shrink: 0; /* Prevent shrinking */
+  height: 25%;
+  width: 100%; /* Full width of the container */
+  box-sizing: border-box; /* Include padding in width calculation */
+  position: relative; /* Ensure it is positioned relative to the container */
+}
+.chatscreen{
+  height: auto;
+}
+
+/* Title in header */
+.header-title {
+  font-size: 17px;
+  font-weight: bold;
+  color: #333; /* Dark text for contrast */
+  margin-left: 8rem; /* Space from left side */
+}
+
+/* Minimize Button */
+.minimize-btn-form {
+  display: inline-block;
+  background: none;
+  border: none;
+  color: black;
+  font-size: 20px;
+  cursor: pointer;
+  position: absolute;
+  right:0;
+  top:0;
+  margin: 20px;
+}
+
+/* Other styles remain unchanged */
+  
+  .minimize-btn:hover {
+    color: #c92c2c; /* Darken on hover */
+  }
+  
+  /* Back Button */
+
+/* Back Button */
+.back-btn {
+    background: none;
+    border: none;
+    color: black;
+    font-size: 20px;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+
+/* Options Button (no margin between buttons) */
+.options-btn {
+    color: black; /* Match the theme color */
+    position: absolute;
+    rotate: 180;
+top: 0;
+left: 50px;
+margin-top: 1px;
+    background-color: transparent;
+    border: none;
+cursor: pointer;
+    font-size: large;
+    padding-left: 5px; /* Optional: Add a bit of space for better readability */
+    margin-top: 20px;
+    margin-left: 10px;
+    user-select: none;
+}
+  .opt:hover{
+color: red;
+  }
+  #userinformation{
+    height: 75%;
+  margin: 1.2rem;
+  }
+  /* User Info Form */
+  .user-info-form {
+
+    display: flex;
+flex-direction: column;
+    gap: 1px; /* Space between inputs */
+    background-color: white; /* White background for the form */
+    padding: 20px;
+    border-radius: 10px; /* Rounded corners for the box */
+    width: 85%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    user-select: none;
+
+  }
+  
+  .user-info-form h3 {
+flex-direction: column;
+    margin-bottom: 1rem;
+    color: #d9534f; /* Match the theme color */
+    text-align: left; /* Center the heading */
+    font-size: small;
+
+
+  }
+  
+  .user-info-form label {
+    font-weight: bold; /* Bold labels for emphasis */
+    font-size: 17px;
+    display: flex;
+    align-items: center; /* Align label text with input */
+    justify-content: flex-start;
+  }
+  
+  .user-info-form input {
+
+    border: 1px solid #ccc; /* Light border */
+    border-radius: 5px; /* Rounded corners */
+    font-size: 16px; /* Font size for inputs */
+    width: 80%; /* Full width inputs */
+    border-radius: 10px;
+    align-items: right; /* Align label text with input */
+    justify-content: flex-start;
+  }
+  
+  /* Submit Button */
+  .submit-btn {
+    grid-column: span 2; /* Center the submit button */
+    background-color: #d9534f; /* Match the theme color */
+    color: white;
+    border: none;
+    padding: 12px;
+    cursor: pointer;
+    border-radius: 5px; /* Rounded corners */
+    font-size: 16px; /* Font size for button */
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+    margin-top: 15px; /* Space above the button */
+
+    user-select: none;
+  }
+  
+  .submit-btn:hover {
+    background-color: #c92c2c; /* Darker shade on hover */
+  }
+  
+  .powered-by-form {
+    overflow-x: hidden;
+    position: absolute; /* Keep it fixed at the bottom */
+    bottom: 10px;
+    width: 100%; /* Ensure it spans the container width */
+    font-size: 13px;
+margin-left: 5.3rem;
+padding-bottom: 4px;
+    color: gray;
+    
+    z-index: 1; /* Ensure it stays above other elements */
+    
+    
+  }
+  
+  
+  .powered-by-form a {
+    text-decoration: none;
+    color: gray;
+    user-select: none;
+  }
+
+
+  #options-menu {
+    display: none;
+    position: absolute;
+    top: 60px;
+    left: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    z-index: 100;
+    width: auto; /* Allow width to adjust based on content */
+    user-select: none;
+}
+
+.options-menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid; /* Use grid layout */
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); /* Responsive columns */
+    gap: 5px; /* Space between items */
+}
+
+.options-menu ul li {
+    padding: 12px 15px;
+    cursor: pointer;
+    font-size: 12px; /* Adjusted font size */
+    color: #333; /* Default text color */
+    background-color: #f9f9f9; /* Optional background color for items */
+    border-radius: 8px; /* Rounded corners for each item */
+    display: flex; /* Use flexbox for icon and text alignment */
+    align-items: center; /* Center items vertically */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Added transition for color */
+}
+
+.options-menu ul li i {
+    margin-right: 8px; /* Space between icon and text */
+    font-size: 13px; /* Adjust icon size */
+}
+
+.options-menu ul li:hover {
+    background-color: #c92c2c; /* Change background color on hover */
+    color: white; /* Change text color on hover */
+    transform: scale(1.05); /* Slightly enlarge the item on hover */
+}
+
+
+
+.plane i {
+  transition: transform 0.2s ease-out; /* Smooth transition */
+}
+.plane:hover i{
+  transform: translate(20px, -30px); /* Move the plane up and to the right */
+}
+.plane:not(:hover) i {
+  transition: transform 0.001s ; /* Smooth transition */
+  transform: translateX(0); /* Return to the default position instantly */
+}
+
+#expand-chat:hover i {
+  transform: scale(1.4); /* Scale the icon by 10% on hover (increases size by ~2px depending on base size) */
+}
+#expand-chat i {
+  font-size: 13px; /* Initial size of the icon */
+  transition: transform 0.3s ease-in-out; /* Smooth transition for scaling */
+}
+
+
+
+
+  /* Style for the switch */
+  .switch {
+    position: relative;
+    display: inline-block;
+    width: 40px; /* Width of the switch */
+    height: 15px; /* Height of the switch */
+    margin-left: 1rem;
+  }
+  
+  .switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: .4s;
+    border-radius: 15px; /* Adjusted for a rounded look */
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 15px; /* Match the height of the switch */
+    width: 15px; /* Adjusted width for the toggle knob */
+    left: 0; /* Start from the left */
+    bottom: 0; /* Align to the bottom */
+    background-color: white;
+    transition: .4s;
+    border-radius: 50%; /* Keep it circular */
+  }
+  
+  input:checked + .slider {
+    background-color: #2196F3; /* Color when checked */
+  }
+  
+  input:checked + .slider:before {
+    transform: translateX(25px); /* Move the knob to the right */
+  }
+
+  #clear-chat:hover i {
+transform: scale(1.3);
+  }
+  
+
+/* General Styles for the Dropdown */
+.language-dropdown {
+  appearance: none; /* Remove default browser styles */
+  -webkit-appearance: none; /* For Safari */
+  -moz-appearance: none; /* For Firefox */
+  background-color: #fff; /* White background */
+  color: #333; /* Dark text */
+  font-family: 'Arial', sans-serif;
+  font-size: 12px;
+  padding: 6px 12px;
+  border: 2px solid #ccc; /* Light gray border */
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer;
+  outline: none; /* Remove default focus outline */
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+/* Add a dropdown arrow */
+.language-dropdown {
+  background-image: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"%3E%3Cpolyline points="6 9 12 15 18 9"%3E%3C/polyline%3E%3C/svg%3E');
+  background-repeat: no-repeat;
+  background-position: right 3px center;
+  background-size: 6px;
+}
+
+/* Hover Effect */
+.language-dropdown:hover {
+  border-color: red; /* Change border to red */
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /* General styles for responsive design */
+@media screen and (max-width: 1200px) {
+  .chat-form-container {
+    height: calc(85vh - 50px);
+    padding: 10px;
+  }
+  
+  .chat-form-header {
+    flex-direction: column;
+    align-items: flex-start;
+    height: auto;
+  }
+
+  .header-title {
+    font-size: 15px;
+    margin-left: 1rem;
+  }
+
+  .minimize-btn-form, .back-btn, .options-btn {
+    font-size: 18px;
+    margin: 15px;
+  }
+
+  .user-info-form {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .chat-form-container {
+    height: calc(80vh - 40px);
+  }
+
+  .header-title {
+    font-size: 14px;
+    margin-left: 0.5rem;
+  }
+
+  .user-info-form label {
+    font-size: 15px;
+  }
+
+  .user-info-form input {
+    font-size: 14px;
+    width: 100%; /* Adjust input to full width */
+  }
+
+  .submit-btn {
+    font-size: 14px;
+  }
+  
+  .powered-by-form {
+    font-size: 12px;
+    margin-left: 3rem;
+  }
+
+  #options-menu {
+    left: 10px;
+    top: 50px;
+  }
+
+  .options-menu ul li {
+    font-size: 11px;
+    padding: 10px 12px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .chat-form-container {
+    height: calc(75vh - 30px);
+    overflow-y: auto;
+  }
+
+  .chat-form-header {
+    padding: 5px;
+  }
+
+  .header-title {
+    font-size: 13px;
+    margin-left: 0.2rem;
+  }
+
+  .user-info-form {
+    padding: 10px;
+  }
+
+  .user-info-form h3 {
+    font-size: 12px;
+  }
+
+  .user-info-form input {
+    font-size: 12px;
+  }
+
+  .submit-btn {
+    padding: 10px;
+  }
+
+  .powered-by-form {
+    font-size: 11px;
+    margin-left: 2rem;
+  }
+
+  #options-menu {
+    width: 90%;
+    left: 5px;
+    top: 40px;
+  }
+
+  .options-menu ul {
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  }
+
+  .options-menu ul li {
+    font-size: 10px;
+    padding: 8px 10px;
+  }
+}
+/* For screens with max width of 400px (Very Small Mobile Devices) */
+@media screen and (max-width: 400px) {
+
+  /* Main container for the chat form */
+  .chat-form-container {
+    width: 100%;  /* Full width */
+    height: calc(70vh - 20px);
+    padding: 5px;
+    font-size: 12px; /* Smaller font size */
+  }
+
+  /* Chat form header adjustments */
+  .chat-form-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;  /* Centering header elements */
+    padding: 5px;
+    height: auto;
+  }
+
+  /* Header title adjustments */
+  .header-title {
+    text-align: center;
+    margin-left: 0;
+    font-size: 12px;  /* Smaller title font */
+  }
+
+  /* User info form styling */
+  .user-info-form {
+    width: 95%;
+    padding: 5px;
+  }
+
+  .user-info-form h3 {
+    text-align: center;
+    font-size: 11px;  /* Smaller heading */
+    margin-bottom: 8px;
+  }
+
+  .user-info-form input {
+    width: 100%;  /* Full width input */
+    padding: 5px;
+    font-size: 11px;  /* Smaller input text */
+  }
+
+  /* Submit button adjustments */
+  .submit-btn {
+    font-size: 12px;
+    padding: 8px;
+    margin-top: 8px;  /* Adding some spacing */
+  }
+
+  /* Powered by text adjustments */
+  .powered-by-form {
+    font-size: 10px;
+    margin-left: 1rem;
+  }
+
+  /* Options menu adjustments */
+  #options-menu {
+    width: 100%;
+    left: 0;
+    top: 35px;
+  }
+
+  .options-menu ul {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .options-menu ul li {
+    font-size: 9px;  /* Smaller font size for options */
+    padding: 6px 8px;
+    text-align: center;  /* Center the text */
+  }
+
+  /* Adjust buttons for better fit on mobile */
+  .minimize-btn-form,
+  .back-btn,
+  .options-btn {
+    font-size: 14px;
+    padding: 6px;
+    margin: 6px;
+  }
+
+  /* Adjusting any other general containers or content */
+  .container {
+    width: 100%;
+    padding: 5px;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* Making sure all sections fit in the mobile layout */
+  .chat-form-container,
+  .user-info-form,
+  .submit-btn,
+  .header-title,
+  .powered-by-form {
+    width: 100%;
+    font-size: 12px;  /* Ensuring consistent font size across the form */
+  }
+
+  /* Adjustments for chatbot footer */
+  .chatbot-footer {
+    width: 100%;
+    padding: 5px;
+    text-align: center;  /* Center the footer text */
+    font-size: 10px;  /* Smaller text for footer */
+    background-color: #f1f1f1;
+    border-top: 1px solid #ddd;
+    margin-top: 10px;
+  }
+}
