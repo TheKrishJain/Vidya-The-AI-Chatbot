@@ -23,3 +23,5 @@ db.sqlite3
 .DS_Store
 Thumbs.db
 *.json
+# .gitignore
+firstApp/*.json
