@@ -1,0 +1,412 @@
+ 
+  
+Programme Outcome  
+ 
+ 
+Program Name  :
+Master of 
+Science In 
+Information 
+Technology 
+(M.Sc.IT) 
+
+Program Outcome 
+
+PO1: To equip students with an integrated set of skills that will allow them to 
+develop their professional careers in Information Technology. 
+PO2: To equip students with theoretical and practical knowledge which 
+enables them to understand the design of complex computer applications. 
+PO3: The programme also prepares students to embrace future developments 
+in the field and has a demonstrated professional relevance. 
+PO4: The programme helps students to acquire skills and build their future 
+capabilities using world-class technology. A student will possess a strong 
+foundation of computer systems and information technology. 
+PO5: To build sophisticated software for a wide area of applications. To work 
+with higher end applications in internet technologies; also, managerial ability 
+to analyze, design, develop and to maintain software development 
+ 
+ 
+  
+Course Outcome  
+ 
+ 
+Program Name and 
+Semester 
+ 
+Master of Science in Information Technology (M.Sc.IT) 
+Semester -I 
+ 
+Course Name 
+Course Outcome 
+Soft Computing 
+Techniques 
+CO1: To understand Soft Computing. 
+CO2: To understand Artificial Neural Network, Supervised Learning 
+Network and Associative Memory Networks. 
+CO3: To define Unsupervised Learning Networks, Special Networks 
+and Third Generation Neural Networks.  
+CO4: To summarize Fuzzy Logic, Classical Relations and Fuzzy 
+Relations, Membership Function, Defuzzification, Lambda-cuts for 
+fuzzy sets and Fuzzy Arithmetic and Fuzzy measures. 
+CO5: To relate the concept of Virtual Machine and Cloud Computing, 
+Designing Secure Web Applications. 
+ 
+Research in 
+Computing 
+CO1: To develop understanding on various kinds of research, 
+objectives of doing research, research process, research designs and 
+sampling. 
+CO2: To select and define appropriate research problem and 
+parameters  
+CO3: To gain the basic knowledge on qualitative research techniques. 
+CO4: To define the meaning of a variable, and to be able to identify 
+independent, dependent, and mediating variables. 
+CO5: To create awareness of data analysis-and hypothesis testing 
+procedures. 
+ 
+Data Science 
+CO1: To apply quantitative modeling and data analysis techniques to 
+the solution of real world business problems, communicate findings, 
+and effectively present results using data visualization techniques.  
+CO2: To recognize and analyse ethical issues in business related to 
+intellectual property, data security, integrity, and privacy. 
+CO3: To apply ethical practices in everyday business activities and 
+make well-reasoned ethical business and data management decisions. 
+CO4: To demonstrate knowledge of statistical data analysis techniques 
+utilized in business decision making. 
+CO5: To apply principles of Data Science to the analysis of business 
+problems. Use data mining software to solve real-world problems. 
+Employ cutting edge tools and technologies to analyze Big Data. Apply 
+algorithms to build machine intelligence. Demonstrate use of team 
+work, leadership skills, decision making and organization theory. 
+ 
+Cloud Computing 
+CO1: To understand what is cloud the history behind cloud computing, 
+technologies used before it, the different ways in which cloud 
+environment can be built and its deployment models, using 
+virtualization technology behind cloud computing. 
+ 
+  
+Course Outcome  
+ 
+ 
+Course Name 
+Course Outcome 
+CO2: To gain a thorough knowledge on how various types of 
+infrastructure can be built for different types of deployment models, 
+getting a deep insight to threat, risk and threat sources on cloud 
+security, To understand the services provided by major cloud providers 
+like Amazon, Google App Engine, Microsoft. 
+CO3: To interpret the basic cloud mechanisms deployed in cloud 
+environment, and the advanced mechanisms which can make the cloud 
+environment more efficient as well as secure. 
+CO4: To analyze how the mechanisms studied in above unit can help 
+in building a resilient, efficient cloud architecture having both basic and 
+advanced approach towards cloud architecture. 
+CO5: To get an insight on which metrics are used by the cloud provider 
+to build price model, characteristics of a good service level agreement, 
+and understanding cloud model delivery with both providers and 
+consumer’s perspective. 
+ 
+ 
+  
+Course Outcome  
+ 
+ 
+Program Name and 
+Semester 
+ 
+Master of Science in Information Technology (M.Sc.IT) 
+Semester -II 
+ 
+Course Name 
+Course Outcome 
+Big Data Analytics 
+CO1: To understand the key issues in big data management and its 
+associated applications in intelligent business and scientific computing. 
+CO2: To acquire fundamental enabling techniques and scalable 
+algorithms like Hadoop, Map Reduce and NO SQL in big data 
+analytics. 
+CO3: To interpret business models and scientific computing 
+paradigms.  
+CO4: To apply software tools for big data analytics. 
+CO5: To achieve adequate perspectives of big data analytics in various 
+applications like recommender systems, social media applications etc. 
+ 
+Modern Networking 
+CO1: To demonstrate in-depth knowledge in the area of Computer 
+Networking.  
+CO2: To demonstrate scholarship of knowledge through performing in 
+a group to identify, formulate and solve a problem related to Computer 
+Networks. 
+CO3: To prepare a technical document for the identified Networking 
+System Conducting experiments to analyze the identified research 
+work in building Computer Networks. 
+CO4: To define and Support User Needs, Quality of Service, 
+Background, QoS Architectural Framework. 
+CO5: To learn Modern Network Architecture. 
+ 
+Micro services 
+Architecture 
+CO1: To develop web applications using Model View Control, Boost 
+your hire ability through innovative and independent learning. 
+CO2: To create MVC Models and write code that implements business 
+logic within Model methods, properties, and events. 
+CO3: To create Views in an MVC application that display and edit data 
+and interact with Models and Controllers. 
+CO4: To gain a thorough understanding of the philosophy and 
+architecture of .NET Core, Understanding packages, metapackages and 
+frameworks 
+CO5: To acquire a working knowledge of the .NET programming 
+model, implementing multi- threading effectively in .NET applications. 
+ 
+Image Processing 
+CO1: To understand the relevant aspects of digital image representation 
+and their practical implications, Have the ability to design pointwise 
+intensity transformations to meet stated specifications. 
+CO2: To understand 2-D convolution, the 2-D DFT, and have the 
+ability to design systems using these concepts. 
+ 
+  
+Course Outcome  
+ 
+ 
+Course Name 
+Course Outcome 
+CO3: To have a command of basic image restoration techniques, 
+Understand the role of alternative color spaces, and the design 
+requirements leading to choices of color space.  
+CO4: To appreciate the utility of wavelet decompositions and their role 
+in image processing systems. 
+CO5: To understand of the underlying mechanisms of image 
+compression, and the ability to design systems using standard 
+algorithms to meet design specifications. 
+ 
+ 
+  
+Course Outcome  
+ 
+ 
+Program Name and 
+Semester 
+ 
+Master of Science in Information Technology (M.Sc.IT) 
+Semester -III 
+ 
+Course Name 
+Course Outcome 
+Ethical Hacking 
+CO1: To understand the basic concepts of ethical hacking. 
+CO2: To demonstrate the concept of system hacking and differentiate 
+between various malwares.  
+CO3: To understand social engineering, denial of service and session 
+hijacking. 
+CO4: To implement hacking of webserver and web applications. 
+CO5: To understand firewalls and honeypots, buffer overflows and 
+cryptography. 
+ 
+Information Security 
+Management 
+CO1: To understand Risk assessment and management. 
+CO2: To devise Security management of IT systems. 
+CO3: To use Public key infrastructures. 
+CO4: To understand Auditing and business continuity. 
+CO5: To inperpret Computer forensics. 
+ 
+Virtualization 
+CO1: To understand the basics of virtualization technology like what 
+is virtualization its pros and cons, its types and taxonomy. 
+CO2: To understand how server visualization can be implemented, 
+technologies behind it and the business cases in which it has a very 
+important role to play. 
+CO3: To relate enterprise campus network design, WAN designs and 
+implementing virtualization at device, data path and control plane level. 
+CO4: To have an insight on SAN architecture, SNIA models used to 
+make SAN designs more understandable and understanding the 
+suitability of different RAID levels. 
+CO5: To relate the history, architecture and usage of blade systems and 
+their contribution in virtualization technology. 
+ 
+Embedded Systems 
+CO1: To understand the basic concepts of embedded systems. 
+CO2: To understand Embedded hardware/firmware design and real 
+time operating systems.  
+CO3: To summarize the working of different types of memories. 
+CO4: To program microcontrollers in C using IDE and debugging 
+techniques. 
+CO5: To design, Development and planning of embedded systems 
+based projects. 
+ 
+ 
+  
+Course Outcome  
+ 
+ 
+Program Name and 
+Semester 
+ 
+Master of Science in Information Technology (M.Sc.IT) 
+Semester -III 
+ 
+Course Name 
+Course Outcome 
+Technical Writing and 
+Entrepreneurship 
+Development 
+CO1: To develop technical documents that meet the requirements with 
+standard guidelines. Understanding the essentials and hands-on 
+learning about effective Website Development.  
+CO2: To write Better Quality Content Which Ranks faster at Search 
+Engines. Build effective Social Media Pages.  
+CO3: To evaluate the essentials parameters of effective Social Media 
+Pages.  
+CO4: To understand importance of innovation and entrepreneurship. 
+CO5:  To analyze research and development projects. 
+Applied Artificial 
+Intelligence 
+CO1: To understand the fundamentals concepts of expert system and 
+its applications.  
+CO2: To use probability and concept of fuzzy sets for solving AI based 
+problems.  
+CO3: To be able to understand the applications of Machine Learning. 
+The learner can also apply fuzzy   system for solving problems.  
+CO4: To apply to understand the applications of genetic algorithms in 
+different problems related to artificial intelligence.  
+CO5: To use knowledge representation techniques in natural language 
+processing.  
+Machine Learning 
+CO1: To understand the key issues in Machine Learning and its 
+associated applications in intelligent business and scientific computing.   
+CO2: To acquire the knowledge about classification and regression 
+techniques where a learner will be able to explore his skill to generate 
+data base knowledge using the prescribed techniques.  
+CO3: To understand and implement the techniques for extracting the 
+knowledge using machine learning methods.   
+CO4: To achieve adequate perspectives of big data analytics in various 
+applications like recommender systems, social media applications etc.  
+CO5: To understand the statistical approach related to machine 
+learning. He will also Apply the algorithms to a real-world problem, 
+optimize the models learned and report on the expected accuracy that 
+can be achieved by applying the models. 
+Robotic Process 
+Automation 
+CO1: to understand the mechanism of business process and can provide 
+the solution in an optimize way.   
+CO2: To learn the features use for interacting with database plugins.   
+CO3: To use the plug-ins and other controls used for process 
+automation.   
+CO4: To handle the different events, debugging and managing the 
+errors.   
+CO5: to test and deploy the automated process. 
+ 
+  
+Course Outcome  
+ 
+ 
+Program Name and 
+Semester 
+ 
+Master of Science in Information Technology (M.Sc.IT) 
+Semester -IV 
+ 
+Course Name 
+Course Outcome 
+IT Infrastructure 
+Management 
+CO1: To learn the basics of ITSM, Life Cycle of ITSM and principles 
+of Service Strategy. 
+CO2: To understand objectives of service design, principles, processes 
+and considerations during service design. 
+CO3: To identify objectives of service transition, principles, processes 
+and considerations during service transition. 
+CO4: To analyze objectives of service operations, principles, functions 
+and processes of service operation. 
+CO5: To evaluate objectives, major concepts and processes of 
+Continual Service Improvement. 
+ 
+Artificial Intelligence 
+CO1: To understand AI and its foundations. 
+CO2: To learn AI algorithms and concepts which can assist in real-time 
+implementations. 
+CO3: To relate various search methodologies and their practical 
+implementations with examples. 
+CO4: To learn the Structure of Intelligent systems so that AI Based 
+applications can be built over it. 
+CO5: To implement the project of AI with proper planning. 
+ 
+Computer Forensic 
+CO1: To understand Investigation Process, Data Acquisitions. 
+CO2: To work with Windows, DOS systems and current forensics 
+tools. 
+CO3: To understand Macintosh and Linux boot processes, Recovering 
+graphic files.  
+CO4: To relate Network Forensics and E-mail Investigations. 
+CO5: To learn and apply Report Writing, Testimony and Ethics in 
+Investigations. 
+ 
+Design of Embedded 
+Control Systems 
+CO1: To understand the working of microcontrollers.  
+CO2: To describe the working of PIC microcontrollers. 
+CO3: To interpret fundamentals of ARM Processor.  
+CO4: To devise the different instruction sets in ARM. 
+CO5: To write an ARM assembly code. 
+ 
+ 
+  
+Course Outcome  
+ 
+ 
+Program Name and 
+Semester 
+ 
+Master of Science in Information Technology (M.Sc.IT) 
+Semester -IV 
+ 
+Course Name 
+Course Outcome 
+Blockchain 
+CO1: The students would understand the structure of a blockchain and 
+why/when it is better than a simple distributed database.   
+CO2: Analyze the incentive structure in a blockchain based system and 
+critically assess its functions, benefits and vulnerabilities   
+CO3: Evaluate the setting where a blockchain based structure may be 
+applied, its potential and its limitations   
+CO4: Understand what constitutes a “smart” contract, what are its legal 
+implications and what it can and cannot do, now and in the near future   
+CO5: Develop blockchain DApps.  
+Natural Language 
+Processing 
+CO1: To introduce the students to the field of Language Computing 
+and its applications ranging from classical era to modern context.   
+CO2: To provide understanding of various NLP tasks and NLP 
+abstractions such as Morphological analysis, POS tagging, concept of 
+syntactic parsing, semantic analysis etc.   
+CO3: To enhance knowledge of different approaches/algorithms for 
+carrying out NLP tasks.   
+CO4: To highlight the concepts of Language grammar and grammar 
+representation in Computational Linguistics. 
+CO5: To understand applications in different sectors 
+ 
+Deep Learning 
+CO1: To present the mathematical, statistical and computational 
+challenges of building neural networks   
+CO2: To study the concepts of deep learning   
+CO3: To enable the students to know deep learning techniques to 
+support real-time applications 
+CO4: To design and implement various deep learning models and 
+architectures 
+CO5: To apply various deep learning techniques to design efficient 
+algorithms for real-world applications.   
+Human Computer 
+Interaction 
+CO1: To understand the important aspects of implementation of 
+human-computer interfaces.  
+CO2: To identify the various tools and techniques for interface 
+analysis, design, and evaluation.  
+CO3: To highlight the impact of usable interfaces in the acceptance and 
+performance utilization of information systems 
+ CO4: To understand how to manage the system resources and do the 
+task analysis.  
+CO5: To design and implement a complete system.    
+ 

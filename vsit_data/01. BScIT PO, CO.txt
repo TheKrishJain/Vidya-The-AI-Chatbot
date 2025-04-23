@@ -1,0 +1,349 @@
+ 
+  
+Programme Outcome  
+ 
+ 
+Program Name 
+Program Outcome 
+ 
+B. Sc. 
+(Information 
+Technology) 
+PO1: To develop the necessary analytical abilities for developing computer-
+based solutions for real life problems. 
+PO2: To inculcate quality practices in Information Technology solutions 
+development.  
+PO3: To imbibe professional skills in students for their future roles. 
+PO4: To prepare necessary knowledge base for potential research and 
+development in Information Technology. 
+PO5: To help students’ build-up a successful career in Information 
+Technology and allied fields. 
+ 
+ 
+  
+Course Outcome  
+ 
+ 
+Program Name and 
+Semester 
+ 
+Bachelor of Science in Information Technology (B. Sc. IT) 
+Semester -I  
+ 
+Course Name 
+Course Outcome 
+Programming 
+Principles with C 
+CO1: Understand the logic building by using algorithm and flowchart. 
+CO2: Demonstrate the use different Operators, Expressions, Data Input and 
+output functions in C programming. 
+CO3: Apply conditional, looping statement and functions in various 
+problems. 
+CO4: Understand how to use Arrays and different storage classes.  
+CO5: Demonstrate the concept of pointers and implement various real-life 
+applications by using structure. 
+C06: Develop confidence for self-education and skills required for 
+computer language 
+Digital Logic and 
+Applications 
+CO1: Students will be able to understand and examine the structure of 
+various number systems and its storage and application in computer system. 
+CO2: Students will be able to identify basic requirements for a design 
+application and formulate most suitable solution. 
+CO3: Students will be able to understand, analyse and design various 
+combinational circuits. 
+CO4: Students can identify and prevent various hazards and timing 
+problems in a sequential circuit design. 
+CO5: Students will be able to apply various algorithms for designing digital 
+circuits. 
+Fundamentals of 
+Database 
+Management 
+Systems 
+CO1: To understand the basics of data & database, different model of 
+representing data. 
+CO2: To understand the conceptual design & modelling it as per the project 
+requirements. 
+CO3: To construct the database and normalize to make it fully relational 
+considering dependencies. 
+CO4: To understand how to retrieve data using a query language. 
+CO5: To learn about transaction and concurrency control for better 
+extraction of the data from a database. 
+Computational 
+Logic and 
+Discrete 
+Structures 
+CO1: Students will be able to understand set theory concept and apply 
+various methods to find discrete probabilities. 
+CO2: Students will understand the meaning of Recursive function and 
+methods to solve such functions. 
+CO3: Students will be able to differentiate between functions and relations. 
+CO4: Students will be able to apply basic and advanced principles of 
+counting. 
+CO5: Students will be able to understand the concepts of Graphs and trees 
+and their applications in computers. 
+ 
+  
+Course Outcome  
+ 
+ 
+Course Name 
+Course Outcome 
+Technical 
+Communication 
+Skills 
+CO1: To introduce aspects of communication essential for business 
+communication. 
+CO2: Train learners in written aspects of organizational communication i.e., 
+business messages and documents requisite for career building. 
+CO3: To enhance learners’ oral communication and prepare them for 
+business interviews and professional group communication. 
+CO4: To familiarize them with specific communication needs of an 
+organization. 
+CO5: To enable use of ICT and communication aids. 
+ 
+ 
+  
+Course Outcome  
+ 
+ 
+Program Name and 
+Semester 
+ 
+Bachelor of Science in Information Technology (B. Sc.IT) 
+Semester -II 
+ 
+Course Name 
+Course Outcome 
+Object Oriented 
+Programming 
+CO1: Differentiate between POP and OOP. 
+CO2: Build C++ application programs using OOP principles and 
+proper program structuring.  
+CO3: Demonstrate the concepts of polymorphism. 
+CO4: Implement Inheritance and learn code reusability. 
+CO5: Design Templates and File Handling. 
+ 
+Fundamentals of 
+Microprocessor and 
+Microcontrollers 
+CO1: To understand 8085 Microprocessor Architecture, pin diagram 
+and pin functions of IC 8085. And the difference between 
+microprocessor and CPU. 
+CO2: To increase Students’ proficiency in assembly language. 
+CO3: To get practical experience in programming. 
+CO4: To know how to work with microcontrollers and to learn 8051 
+Microcontroller. 
+CO5: To control computer system components through hardware and 
+software interrupts. 
+ 
+Numerical Methods 
+CO1: Understand various Engineering problems, several types of errors 
+which occur in real life and representation of any function as a series of 
+non-linear coefficients. 
+CO2: Determine the roots of any polynomial and estimate the future as 
+well as intermediate value depending on the pre-requisite values (Past 
+values). 
+CO3: Determine the solution of multiple equations and integrate any 
+linear or non-linear functions within the given intervals. 
+CO4: Prediction of the future values depending on the present as well 
+as past values and to optimize the given situation. 
+CO5: Mapping of a given event into another domain and understanding 
+several types of distribution to be used in probability. 
+ 
+Web Applications 
+CO1: To understand various terminologies of Internet, simple 
+application of HTML5. 
+CO2: To design web pages using advanced HTML5. 
+CO3: To design dynamic web pages using JavaScript.  
+CO4: To develop simple, responsive web pages using PHP. 
+CO5: To build web pages using PHP & MySQL. 
+ 
+ 
+  
+Course Outcome  
+ 
+ 
+Course Name 
+Course Outcome 
+Green IT 
+CO1: To understand the relation and impact of environmental 
+perspectives and IT. 
+CO2: To use the methods and tools to measure energy consumption. 
+CO3: To evaluate the effectiveness of IT use in relation to 
+environmental perspectives. 
+CO4: To select the hardware and software can facilitate a more 
+sustainable operation. 
+CO5: To use and give an account of standards and certifications related 
+to sustainable IT products. 
+ 
+  
+Course Outcome  
+ 
+ 
+Program Name and 
+Semester 
+ 
+Bachelor of Science in Information Technology (B. Sc.IT) 
+Semester -III 
+ 
+ 
+Course Name 
+Course Outcome 
+Applied Mathematics 
+CO1: Matrices will help to calculate the various image transformations 
+that are done. 
+CO2: The equation of First Order and second order differential 
+Equation can describe exponential growth and decay, the population 
+growth of species or the change in investment return over time. 
+CO3: Implementation of Laplace Transformation will help to 
+understand how various analogue and digital signal conversions are 
+done. 
+CO4: Multiple Integration will help to calculate the surface area and 
+volume of any real-life objects. 
+CO5: Error functions will help to calculate the accurate error from true 
+and observed value. 
+ 
+Computer Networks 
+CO1: To recognize the purposes and association between the OSI 
+layers, different types of signals and their mechanism of understanding 
+each of them. 
+CO2: To understand types of multiplexing schemes, transmission 
+media and functions of data link layer. 
+CO3: Identify the network devices working at various layers, media 
+access layer and protocols.  
+CO4: To implement switching and routing algorithms like RIP, OSPF 
+etc. and addressing schemes. 
+CO5: To decide the right client server protocols to be used in the real-
+life scenario. 
+ 
+Python Programming 
+CO1: To develop small applications using basic concepts, values & 
+expressions, various control & conditional statements, and Looping. 
+CO2: To use and implement built-in functions and User defined 
+Functions along with different string methods. 
+CO3: To use new datatypes such as Lists, Tuples, and dictionaries, 
+Create and handle Exceptions and how to deal with files. 
+CO4: To create classes and objects, implement use of regular 
+expression and multithreaded programming. 
+CO5: To develop GUI applications with database connectivity. 
+ 
+ 
+ 
+ 
+  
+Course Outcome  
+ 
+ 
+Course Name 
+Course Outcome 
+Data Structures 
+CO1: Understand how arrays can be efficiently used to store linear sets 
+of similar type of data and perform various operations like searching, 
+sorting, merging, reversing etc. 
+CO2: Interpret Linked List data structure to store data in non-linear 
+form for effective utilization of memory, to solve problems like 
+polynomial equations. 
+CO3: Design stack and queue data structures and learn basic 
+operations to be performed. Solve various problems using stacks 
+and queues. 
+CO4: Apply various sorting and searching techniques on arrays and 
+to create several types of trees and their applications like Huffman 
+Algorithm, binary search tree etc. 
+CO5: Understand Hashing techniques including collision techniques 
+and to study graphs and their different operations and its traversals. 
+ 
+Operating Systems 
+CO1: To learn about operating systems and its evolution and also about 
+the process and its creation and termination understand 
+CO2: To demonstrate the concept of threads and multithreading and to 
+know what concurrency and mutual exclusion is 
+CO3: To implement deadlock detection techniques in sums Unit 3 
+CO4: To demonstrate the concept of memory management using 
+Paging and segmentation. 
+CO5: To be able to compare several types of operating systems.  
+ 
+  
+Course Outcome  
+ 
+ 
+Program Name and 
+Semester 
+ 
+Bachelor of Science in Information Technology (B. Sc.IT) 
+Semester -IV 
+ 
+Course Name 
+Course Outcome 
+Introduction to 
+Embedded 
+Systems 
+CO1: Understand the basic concepts of embedded systems. 
+CO2: Familiarize with characteristics and attributes of embedded 
+systems. 
+CO3: Demonstrate knowledge and understanding of hardware software 
+co design techniques for microcontroller based embedded systems. 
+CO4: Program microcontrollers in C using IDE and debugging 
+techniques. 
+CO5: Design, Development, and planning of embedded systems-based 
+projects. 
+Computer 
+Graphics and 
+Animation 
+CO1: To provide an overview of the Computer Graphics field. To 
+describe the important input & output graphics devices. To understand 
+applications of Computer Graphics, different Scanning techniques. 
+CO2: Develops theory of 2D, 3D transformation and describes several 
+types of 2D, 3D transformations. 
+CO3: Learning the basics of 3D Viewing & projections, basics of lights 
+and color. 
+CO4: To compare different algorithms for removal of hidden lines and 
+surfaces. It tells how to design and smooth surfaces. 
+CO5: To Interpret the overviews of animation along with its types and 
+techniques. 
+Computer Oriented 
+Statistical 
+Techniques 
+CO1: Able to summarize the information present in the given data set 
+and gives an idea around which value the data observation is clustered. 
+CO2: Understand the complementary relationship of skewness with 
+measures of central tendency and dispersion in describing a set of data. 
+CO3: To be able to infer information about a population from samples 
+drawn from it. And, to make decisions about populations based on 
+sample information. 
+CO4: To determine whether the difference between the observed and 
+expected values is statistically significant. 
+CO5: Able to identify the strength and direction of a linear relationship 
+between two variables using correlation and to predict how much a 
+dependent variable changes based on adjustments to an independent 
+variable using regression. 
+ 
+Core Java 
+CO1: To learn program structure and basic concepts of java. 
+CO2: To understand and apply OOP techniques to solve real world 
+problems. 
+CO3: To use and create packages and interfaces in a Java program. 
+CO4: To implement Multithreading & exception handling techniques 
+in java. 
+CO5: To design GUI application using Abstract Windows Toolkit. 
+ 
+ 
+  
+Course Outcome  
+ 
+ 
+Course Name 
+Course Outcome 
+Software Engineering 
+CO1: To learn basic concepts related to requirement engineering, 
+different software development models, SRS document. 
+CO2: To understand types of critical systems and learn about system 
+models.  
+CO3: To design and manage the software, different software 
+architectural styles.  
+CO4: To Verify and validate software and to estimate the cost of 
+software. 
+CO5: To learn about process improvement and diverse types of 
+software engineering. 
+ 
+ 

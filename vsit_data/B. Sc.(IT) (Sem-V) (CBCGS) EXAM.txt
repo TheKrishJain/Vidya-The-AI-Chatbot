@@ -1,0 +1,30 @@
+ 
+ 
+                                   UNIVERSITY OF MUMBAI                                                       JUNE 04, 2022 
+          OFFICE REGISTER FOR THE B. Sc. (Information Technology) (Semester-V) (CBCGS) EXAMINATION  MARCH 2022 
+                                COLLEGE :  640 Vidyalankar School of Information Technology                   PAGE :   97 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+ SEAT_NO  NAME                                                         PRN                                CENTRE 
+     <-----Course-I----->   <-----Course-II----->  <-----Course-III----> <-----Course-IV-----> <-----Course-V------>  
+     Th(75/30)              Th(75/30)              Th(75/30)             Th(75/30)             Th(75/30)                   TOTAL 
+     In(25/10)              In(25/10)              In(25/10)             In(25/10)             In(25/10)                   MARKS  RESULT  REMARK 
+     TOT    GP G   C G*C    TOT    GP G   C  G*C   TOT    GP G   C  G*C  TOT   GP  G   C  G*C  TOT    GP  G   C  G*C    äC  äCG   GPA          
+     Pr(50/20)              Pr(50/20)              Pr(50/20)             Pr(50/20)             Pr(50/20)          
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  1:Software Proj. Mgmt.       2:Internet of Things          3:Advanced Web Prog.          4:Artificial Intellige.       7:Next Generation Tech.     
+  8:Project Dissertation       9:Internet of Things (PR)    10:Advanced Web Prog. (PR)    11:Artificial Intellige (PR)  14:Next Generation Tech.(PR) 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+     1051 /LANKESHWAR AAROHI MILIND SHALAKA                      (2019016401335231)                   2:DADAR              
+ 
+      44        B+           41        B            46        A           60        O           60         O  
+      10        D            12        C            10        D           13        B           10         D  
+      54     6  B   2  12    53     6  B   2  12    56     7  B+  2  14   73    9   A+  2  18   70     9   A+  2  18         486      P 
+      35     9  A+  2  18    40     10 O   2  20    35     9  A+  2  18   35    9   A+  2  18   35     9   A+  2  18     20  166   8.30 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+ #:0.229; @:O.5042A/O.5043A/O.5044A; *:O.5045A; /:FEMALE; AA/ABS: ABSENT; P: SUCCESSFUL; F: UNSUCCESSFUL; E: EXMP CAN BE CLAIMED; 
+ ~: Dyslexia; +: MARKS CARRIED FORWARD; $: GRADE CARRIED FORWARD; RCC: O.5050; RPV: PROVISIONAL; NULL: NULL & VOID.; 
+ RR: RESERVED; ADC: ADMISSION CANCELLED; C: CREDIT POINTS; G: GRADE POINTS; GPA: GRADE POINT AVERAGE=SUM OF CxG / SUM OF C; 
+ %Marks        :  Above 80       70-79.99      60-69.99         55-59.99       50-54.99         45-49.99        40-44.99     Less than 40 
+ Grade / Gr.Pt :   O / 10         A+ / 9         A / 8           B+ / 7          B / 6            C / 5           D / 4          F / 0 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 

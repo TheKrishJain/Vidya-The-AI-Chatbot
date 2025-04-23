@@ -1,0 +1,40 @@
+ 
+                                   UNIVERSITY OF MUMBAI                                                       SEPTEMBER 05, 2020 
+     FINAL OFFICE REGISTER FOR THE B.Sc.(Information Technology) (Semester-VI) (CBCGS) (REVALUATION) EXAMINATION HELD IN NOVEMBER 2019 
+                                COLLEGE :  640 Vidyalankar School of Information Technology                   PAGE :   64 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  SEAT_NO  NAME                                                        PRN                                CENTRE 
+      <-----Course-I----->   <-----Course-II----->  <-----Course-III---->  <-----Course-IV----->   <-----Course-V------>  
+      Th(75/30)              Th(75/30)              Th(75/30)              Th(75/30)               Th(75/30)                 TOTAL 
+      In(25/10)              In(25/10)              In(25/10)              In(25/10)               In(25/10)                 MARKS   RESULT REMARK 
+      TOT     GP G   C G*C   TOT     GP G   C  G*C  TOT     GP G   C  G*C  TOT     GP  G   C  G*C  TOT     GP  G   C  G*C   äC  äCG   GPA  
+      Pr(150/60)             Pr(50/20)              Pr(50/20)              Pr(50/20)               Pr(50/20)  
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  1:Software Qlty. Assurance   2:Security in Computing       3:Business Intelligence       4:Principles of G.I.S.        6:IT Service Management     
+  8:Project Implementation     9:Security in Computing(PR)  10:Business Intelligence(PR)  11:Principles of G.I.S. (PR)  13:Advanced Mob. Programming 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  2077592 /PASI SARITA RAMNARESH NILAM                           (2016016402501047)                   2:DADAR              
+ 
+      30         D           31         D           30         D           30+         D $         31+         D $ 
+      14+        B+$         15+        A $         15+        A $         17+         A $         20+         O $ 
+      44      4  D   2   8   46      5  C   2  10   45      5  C   2  10   47      5   C $ 2  10   51      6   B $ 2  12     509        P  RLE 
+     125+     10 O $ 2  20   35+     9  A+$ 2  18   44+     10 O $ 2  20   36+     9   A+$ 2  18   36+     9   A+$ 2  18    20  144   7.20 
+ 
+    SGPI :   SEM-I :  5.90 ;       SEM-II :  5.60 ;     SEM-III :  5.90 ;     SEM-IV :  5.20 ;     SEM-V :  0.00 ;      CGPI :  --                                  
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  2077598  SALIAN SANKET SHANKAR SAROJINI                        (2016016402343695)                   2:DADAR                                                                                        RESULT-NO CHANGE AFTER 
+REVALUATION 
+  2077609  SINGH PIYUSH RADHESHYAM RANJANA                       (2016016402341804)                   2:DADAR                                                                                        RESULT-NO CHANGE AFTER 
+REVALUATION 
+  1:Software Qlty. Assurance   2:Security in Computing       3:Business Intelligence       4:Principles of G.I.S.        7:Cyber Laws                
+  8:Project Implementation     9:Security in Computing(PR)  10:Business Intelligence(PR)  11:Principles of G.I.S. (PR)  13:Advanced Mob. Programming 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  2077700  SUTAR SHRAVANKUMAR DILIP SHANTIDEVI                   (2016016402343022)                   2:DADAR                                                                                        RESULT-NO CHANGE AFTER 
+REVALUATION 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+ #:0.229; @:O.5042A/O.5043A/O.5044A; *:O.5045A; /:FEMALE; AA/ABS: ABSENT; P: SUCCESSFUL; F: UNSUCCESSFUL; E: EXMP CAN BE CLAIMED; 
+ ~: Dyslexia; +: MARKS CARRIED FORWARD; $: GRADE CARRIED FORWARD; RCC: O.5050; RPV: PROVISIONAL; NULL: NULL & VOID.; 
+ RR: RESERVED; ADC: ADMISSION CANCELLED; C: CREDIT POINTS; G: GRADE POINTS; GPA: GRADE POINT AVERAGE=SUM OF CxG / SUM OF C; 
+ %Marks        :  Above 80       70-79.99      60-69.99         55-59.99       50-54.99         45-49.99        40-44.99     Less than 40 
+ Grade / Gr.Pt :   O / 10         A+ / 9         A / 8           B+ / 7          B / 6            C / 5           D / 4          F / 0 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 

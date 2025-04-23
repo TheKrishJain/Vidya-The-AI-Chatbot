@@ -1,0 +1,2933 @@
+BAMMC CCPR-302
+BAMMC CMM-306
+BAMMC EM-3011
+BAMMC FCO-305
+BAMMC IP-304
+BAMMC MS-303
+ 
+CORPORATE 
+COMMUNICATION AND 
+PUBLIC RELATIONS
+COMPUTERS AND 
+MULTIMEDIA-I
+ELECTRONIC MEDIA-I
+FILM COMMUNICATION-I
+INTRODUCTION TO 
+PHOTOGRAPHY
+MEDIA STUDIES
+TOTAL
+SGPA
+RESULT
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+Exam No. - Roll No. & 
+Name
+MaxM
+75
+25
+100
+75
+25
+100
+75
+25
+100
+75
+25
+100
+75
+25
+100
+75
+25
+100
+600
+MinM
+30
+10
+30
+10
+30
+10
+30
+10
+30
+10
+30
+10
+21314A0002 - 
+21314A0002
+/UTEKAR JANHAVI  
+VINAYAK UJWALA
+MarksO
+34
+10+
+44
+32+
+13+
+45
+31+
+10+
+41
+30+
+10+
+40
+35
+11+
+46
+30+
+10+
+40
+256
+4.30
+Successful
+Grade
+D 
+C 
+D 
+D 
+C 
+D 
+D 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+16
+10
+8
+16
+20
+16
+86
+21314A0004 - 
+21314A0004
+SETA VIVIN HITESH 
+NEETA
+MarksO
+30+
+11+
+41
+30+
+11+
+41
+30E
+14+
+44
+10F
+10+
+20
+30E
+10+
+40
+30+
+10+
+40
+226
+-
+Unsuccessful
+Grade
+D 
+D 
+D 
+F
+D 
+D 
+-
+C
+4
+2
+2
+-
+4
+4
+16
+GP * C
+16
+8
+8
+0
+16
+16
+0
+21314A0009 - 
+21314A0009
+KHEDEKAR 
+BHUSHAN JITENDRA 
+MANISHA
+MarksO
+12F
+13+
+25
+32+
+14+
+46
+30E
+15+
+45
+30E
+10+
+40
+15F
+12+
+27
+30E
+14+
+44
+227
+-
+Unsuccessful
+Grade
+F
+C 
+C 
+D 
+F
+D 
+-
+C
+-
+2
+2
+4
+-
+4
+12
+GP * C
+0
+10
+10
+16
+0
+16
+0
+21314A0010 - 
+21314A0010
+/TELANG SHRUTI 
+SATISH SAYLI
+MarksO
+15F
+10+
+25
+31+
+10+
+41
+32+
+13+
+45
+31E
+11E
+42
+30E
+10+
+40
+37+
+11+
+48
+241
+-
+Unsuccessful
+Grade
+F
+D 
+C 
+D 
+D 
+C 
+-
+C
+-
+2
+2
+4
+4
+4
+16
+GP * C
+0
+8
+10
+16
+16
+20
+0
+21314A0011 - 
+21314A0011
+YADAV RONIT 
+MOHAN DIPTEE
+MarksO
+37
+14+
+51
+30
+15+
+45
+34+
+15+
+49
+32
+16+
+48
+38
+14+
+52
+35+
+19+
+54
+299
+5.60
+Successful
+Grade
+B 
+C 
+C 
+C 
+B 
+B 
+C 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+24
+10
+10
+20
+24
+24
+112
+21314A0018 - 
+21314A0018
+/SINGH PALLAVI 
+MANSI MANSI
+MarksO
+31
+13+
+44
+30+
+15+
+45
+30+
+12+
+42
+33
+15+
+48
+30
+16+
+46
+30+
+18+
+48
+273
+4.70
+Successful
+Grade
+D 
+C 
+D 
+C 
+C 
+C 
+D 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+16
+10
+8
+20
+20
+20
+94
+21314A0020 - 
+21314A0020
+/PARMAR RIDDHI 
+RAHUL PUSHPA
+MarksO
+31+
+11+
+42
+30+
+12+
+42
+39+
+12+
+51
+38
+11+
+49
+31
+14+
+45
+37+
+13+
+50
+279
+5.00
+Successful
+Grade
+D 
+D 
+B 
+C 
+C 
+B 
+C 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+16
+8
+12
+20
+20
+24
+100
+21314A0021 - 
+21314A0021
+/GUPTA SHWETA 
+ANIL SARITA
+MarksO
+30+
+19+
+49
+36+
+16+
+52
+30+
+18+
+48
+39
+17+
+56
+34
+16+
+50
+36+
+18+
+54
+309
+5.90
+Successful
+Grade
+C 
+B 
+C 
+B+
+B 
+B 
+C 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+20
+12
+10
+28
+24
+24
+118
+21314A0025 - 
+21314A0025
+PARAB ATHRAVA 
+DEEPAK DIPALI
+MarksO
+31+
+16+
+47
+33+
+14+
+47
+30+
+15+
+45
+33
+15+
+48
+30+
+15+
+45
+30+
+18+
+48
+280
+5.00
+Successful
+Grade
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+20
+10
+10
+20
+20
+20
+100
+TH    = Theory
+IA    = Internal
+PRA   = Practical 
+AB    = Absent 
+E     = Exemption
+Issued On :April 20 ,2023 
+@ : 5042/5043/5044,
+* : 5045,
+~ : 0.229,
+E : Exemption,
++ : Carried Forward,
+F : Fail
+M:50  = M < 20| 20 - 22.49| 22.5 - 24.99| 25 - 27.49| 27.5 - 29.99| 30 - 34.99| 35 - 39.99| 40 & above
+--------------------------------------------------------------------------------------------------------
+M:100 = M < 40| 40 - 44.99| 45   - 49.99| 50 - 54.99| 55   - 59.99| 60 - 69.99| 70 - 79.99| 80 & above   
+--------------------------------------------------------------------------------------------------------
+GRADE = F     | D         | C           | B         | B+          | A         | A+        | 0
+--------------------------------------------------------------------------------------------------------
+GP    = 0     | 4         | 5           | 6         | 7           | 8         | 9         | 10            
+--------------------------------------------------------------------------------------------------------
+G     = Grade            GP = Grade Point             ȈC * GP) = Sum of Product of credit & grade point
+ȈC    = Sum of Credits   GPA = Grade Point Average    ȈC * GP)/ ȈC
+M     = Marks
+TOT 1 =  TH + IN Mark
+ENTERED BY    CHECKED BY     READ BY    PRINCIPAL
+RESULT SHEET : BACHELORS OF ARTS IN MULTIMEDIA AND MASS COMMUNICATION - SEMESTER  3 EXAMINATION (BAMMC 2019) : Feb - 2023
+VIDYALANKAR SCHOOL OF INFORMATION TECHNOLOGY
+WADALA, MUMBAI 400037
+(Affiliated to University of Mumbai)
+ Pg 1 of 6
+BAMMC CCPR-302
+BAMMC CMM-306
+BAMMC EM-3011
+BAMMC FCO-305
+BAMMC IP-304
+BAMMC MS-303
+ 
+CORPORATE 
+COMMUNICATION AND 
+PUBLIC RELATIONS
+COMPUTERS AND 
+MULTIMEDIA-I
+ELECTRONIC MEDIA-I
+FILM COMMUNICATION-I
+INTRODUCTION TO 
+PHOTOGRAPHY
+MEDIA STUDIES
+TOTAL
+SGPA
+RESULT
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+Exam No. - Roll No. & 
+Name
+MaxM
+75
+25
+100
+75
+25
+100
+75
+25
+100
+75
+25
+100
+75
+25
+100
+75
+25
+100
+600
+MinM
+30
+10
+30
+10
+30
+10
+30
+10
+30
+10
+30
+10
+21314A0026 - 
+21314A0026
+PHODKAR ANIKET  
+JAGDISH 
+BHAGYASHREE
+MarksO
+32+
+10+
+42
+30+
+10
+40
+42
+10+
+52
+30
+10+
+40
+34
+10
+44
+35
+10+
+45
+263
+4.40
+Successful
+Grade
+D 
+D 
+B 
+D 
+D 
+C 
+D 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+16
+8
+12
+16
+16
+20
+88
+21314A0028 - 
+21314A0028
+/SATAM CHINMAYI 
+SURESH SONALI
+MarksO
+30+
+15+
+45
+32+
+15+
+47
+30+
+14+
+44
+33
+13+
+46
+30
+14+
+44
+30+
+16+
+46
+272
+4.70
+Successful
+Grade
+C 
+C 
+D 
+C 
+D 
+C 
+D 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+20
+10
+8
+20
+16
+20
+94
+21314A0030 - 
+21314A0030
+KATKOJWALA 
+SAIVARDHAN 
+NAGRAJ LATHA 
+SHRI
+MarksO
+33+
+10+
+43
+30+
+15+
+45
+31+
+11+
+42
+14F
+10+
+24
+32E
+11+
+43
+30+
+12+
+42
+239
+-
+Unsuccessful
+Grade
+D 
+C 
+D 
+F
+D 
+D 
+-
+C
+4
+2
+2
+-
+4
+4
+16
+GP * C
+16
+10
+8
+0
+16
+16
+0
+21314A0032 - 
+21314A0032
+/NAGRE POOJA 
+RAJU  RAJESHRI 
+MarksO
+32+
+16+
+48
+36+
+11+
+47
+40+
+12+
+52
+38
+12+
+50
+37
+14+
+51
+35+
+14+
+49
+297
+5.50
+Successful
+Grade
+C 
+C 
+B 
+B 
+B 
+C 
+C 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+20
+10
+12
+24
+24
+20
+110
+21314A0034 - 
+21314A0034
+/SUVARNA RITIKA 
+SHEKAR LAXMI
+MarksO
+34+
+14+
+48
+37+
+13+
+50
+40+
+10+
+50
+30
+10+
+40
+33
+11+
+44
+30+
+10+
+40
+272
+4.60
+Successful
+Grade
+C 
+B 
+B 
+D 
+D 
+D 
+D 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+20
+12
+12
+16
+16
+16
+92
+21314A0035 - 
+21314A0035
+SHRIPATI ABHINAV 
+RAJENDRA SWAPNA
+MarksO
+30+
+10+
+40
+41+
+12+
+53
+30+
+11+
+41
+30E
+10+
+40
+15F
+11+
+26
+32+
+10+
+42
+242
+-
+Unsuccessful
+Grade
+D 
+B 
+D 
+D 
+F
+D 
+-
+C
+4
+2
+2
+4
+-
+4
+16
+GP * C
+16
+12
+8
+16
+0
+16
+0
+21314A0036 - 
+21314A0036
+AMBULKAR 
+SWAPNIL ABHAY  
+AMRUTA
+MarksO
+30+
+12+
+42
+31+
+13+
+44
+30+
+11+
+41
+30
+10
+40
+30
+13+
+43
+30+
+15+
+45
+255
+4.20
+Successful
+Grade
+D 
+D 
+D 
+D 
+D 
+C 
+D 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+16
+8
+8
+16
+16
+20
+84
+21314A0043 - 
+21314A0043
+BODA ROHIT 
+KRISHNAHARI 
+SWARUPA
+MarksO
+30+
+11
+41
+32+
+10+
+42
+30+
+10+
+40
+39
+10+
+49
+31
+12
+43
+34+
+11+
+45
+260
+4.40
+Successful
+Grade
+D 
+D 
+D 
+C 
+D 
+C 
+D 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+16
+8
+8
+20
+16
+20
+88
+21314A0046 - 
+21314A0046
+GHADI VIGNESH 
+DILIP PRANALI
+MarksO
+30+
+10+
+40
+31+
+10+
+41
+30+
+12+
+42
+30
+11+
+41
+30
+11+
+41
+30+
+12+
+42
+247
+4.00
+Successful
+Grade
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+16
+8
+8
+16
+16
+16
+80
+TH    = Theory
+IA    = Internal
+PRA   = Practical 
+AB    = Absent 
+E     = Exemption
+Issued On :April 20 ,2023 
+@ : 5042/5043/5044,
+* : 5045,
+~ : 0.229,
+E : Exemption,
++ : Carried Forward,
+F : Fail
+M:50  = M < 20| 20 - 22.49| 22.5 - 24.99| 25 - 27.49| 27.5 - 29.99| 30 - 34.99| 35 - 39.99| 40 & above
+--------------------------------------------------------------------------------------------------------
+M:100 = M < 40| 40 - 44.99| 45   - 49.99| 50 - 54.99| 55   - 59.99| 60 - 69.99| 70 - 79.99| 80 & above   
+--------------------------------------------------------------------------------------------------------
+GRADE = F     | D         | C           | B         | B+          | A         | A+        | 0
+--------------------------------------------------------------------------------------------------------
+GP    = 0     | 4         | 5           | 6         | 7           | 8         | 9         | 10            
+--------------------------------------------------------------------------------------------------------
+G     = Grade            GP = Grade Point             ȈC * GP) = Sum of Product of credit & grade point
+ȈC    = Sum of Credits   GPA = Grade Point Average    ȈC * GP)/ ȈC
+M     = Marks
+TOT 1 =  TH + IN Mark
+ENTERED BY    CHECKED BY     READ BY    PRINCIPAL
+RESULT SHEET : BACHELORS OF ARTS IN MULTIMEDIA AND MASS COMMUNICATION - SEMESTER  3 EXAMINATION (BAMMC 2019) : Feb - 2023
+VIDYALANKAR SCHOOL OF INFORMATION TECHNOLOGY
+WADALA, MUMBAI 400037
+(Affiliated to University of Mumbai)
+ Pg 2 of 6
+BAMMC CCPR-302
+BAMMC CMM-306
+BAMMC EM-3011
+BAMMC FCO-305
+BAMMC IP-304
+BAMMC MS-303
+ 
+CORPORATE 
+COMMUNICATION AND 
+PUBLIC RELATIONS
+COMPUTERS AND 
+MULTIMEDIA-I
+ELECTRONIC MEDIA-I
+FILM COMMUNICATION-I
+INTRODUCTION TO 
+PHOTOGRAPHY
+MEDIA STUDIES
+TOTAL
+SGPA
+RESULT
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+Exam No. - Roll No. & 
+Name
+MaxM
+75
+25
+100
+75
+25
+100
+75
+25
+100
+75
+25
+100
+75
+25
+100
+75
+25
+100
+600
+MinM
+30
+10
+30
+10
+30
+10
+30
+10
+30
+10
+30
+10
+21314A0049 - 
+21314A0049
+/MOTORWALA 
+LUBAINA YUSUF 
+ZAINAB
+MarksO
+44+
+13+
+57
+33+
+10+
+43
+37+
+11+
+48
+34
+11+
+45
+30
+10+
+40
+35+
+10+
+45
+278
+5.10
+Successful
+Grade
+B+
+D 
+C 
+C 
+D 
+C 
+C 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+28
+8
+10
+20
+16
+20
+102
+21314A0053 - 
+21314A0053
+KESHWANI ZIYAAN 
+RIYAZ SHEMILA
+MarksO
+31+
+13+
+44
+30+
+13+
+43
+34
+14+
+48
+30+
+12+
+42
+37+
+13+
+50
+39+
+14+
+53
+280
+4.90
+Successful
+Grade
+D 
+D 
+C 
+D 
+B 
+B 
+D 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+16
+8
+10
+16
+24
+24
+98
+21314A0054 - 
+21314A0054
+GUPTA AJAY 
+KUMAR 
+RADESHYAM 
+GUDIYA
+MarksO
+30
+10+
+40
+30+
+11+
+41
+32
+10+
+42
+30
+10+
+40
+30
+10+
+40
+32+
+10+
+42
+245
+4.00
+Successful
+Grade
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+16
+8
+8
+16
+16
+16
+80
+21314A0057 - 
+21314A0057
+/PARMAR UNNATI 
+HITESH  SAIYAM
+MarksO
+42+
+18+
+60
+35+
+16+
+51
+40+
+16+
+56
+30
+15+
+45
+30+
+16+
+46
+39+
+19+
+58
+316
+6.30
+Successful
+Grade
+A 
+B 
+B+
+C 
+C 
+B+
+B 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+32
+12
+14
+20
+20
+28
+126
+21314A0058 - 
+21314A0058
+/HAMBIRE SNEHAL 
+PRADIP MANISHA
+MarksO
+30E
+10+
+40
+30E
+10+
+40
+43E
+10+
+53
+16F
+11+
+27
+16F
+11+
+27
+30E
+11+
+41
+228
+-
+Unsuccessful
+Grade
+D 
+D 
+B 
+F
+F
+D 
+-
+C
+4
+2
+2
+-
+-
+4
+12
+GP * C
+16
+8
+12
+0
+0
+16
+0
+21314A0059 - 
+21314A0059
+MOTA MOKSH 
+CHETAN SHARMILA
+MarksO
+30+
+11+
+41
+30+
+11+
+41
+30+
+13+
+43
+31
+12+
+43
+30
+12+
+42
+35+
+15+
+50
+260
+4.40
+Successful
+Grade
+D 
+D 
+D 
+D 
+D 
+B 
+D 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+16
+8
+8
+16
+16
+24
+88
+21314A0062 - 
+21314A0062
+/GUPTA ARPITA 
+RAMASHANKAR 
+MAMTA
+MarksO
+36+
+14+
+50
+35+
+12+
+47
+30+
+12+
+42
+38
+13+
+51
+30
+15+
+45
+44+
+16+
+60
+295
+5.90
+Successful
+Grade
+B 
+C 
+D 
+B 
+C 
+A 
+C 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+24
+10
+8
+24
+20
+32
+118
+21314A0067 - 
+21314A0067
+/SAWANT RHUNALI 
+DEEPAK DEEPALI
+MarksO
+48+
+15+
+63
+41+
+15+
+56
+40+
+15+
+55
+41
+15+
+56
+30+
+15+
+45
+42+
+16+
+58
+333
+6.80
+Successful
+Grade
+A 
+B+
+B+
+B+
+C 
+B+
+B 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+32
+14
+14
+28
+20
+28
+136
+21314A0068 - 
+21314A0068
+DHAUSKAR 
+MAYURESH 
+PRADEEP PRITI
+MarksO
+30+
+11+
+41
+31+
+14+
+45
+30+
+12+
+42
+30
+15+
+45
+32+
+12+
+44
+32
+16+
+48
+265
+4.50
+Successful
+Grade
+D 
+C 
+D 
+C 
+D 
+C 
+D 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+16
+10
+8
+20
+16
+20
+90
+TH    = Theory
+IA    = Internal
+PRA   = Practical 
+AB    = Absent 
+E     = Exemption
+Issued On :April 20 ,2023 
+@ : 5042/5043/5044,
+* : 5045,
+~ : 0.229,
+E : Exemption,
++ : Carried Forward,
+F : Fail
+M:50  = M < 20| 20 - 22.49| 22.5 - 24.99| 25 - 27.49| 27.5 - 29.99| 30 - 34.99| 35 - 39.99| 40 & above
+--------------------------------------------------------------------------------------------------------
+M:100 = M < 40| 40 - 44.99| 45   - 49.99| 50 - 54.99| 55   - 59.99| 60 - 69.99| 70 - 79.99| 80 & above   
+--------------------------------------------------------------------------------------------------------
+GRADE = F     | D         | C           | B         | B+          | A         | A+        | 0
+--------------------------------------------------------------------------------------------------------
+GP    = 0     | 4         | 5           | 6         | 7           | 8         | 9         | 10            
+--------------------------------------------------------------------------------------------------------
+G     = Grade            GP = Grade Point             ȈC * GP) = Sum of Product of credit & grade point
+ȈC    = Sum of Credits   GPA = Grade Point Average    ȈC * GP)/ ȈC
+M     = Marks
+TOT 1 =  TH + IN Mark
+ENTERED BY    CHECKED BY     READ BY    PRINCIPAL
+RESULT SHEET : BACHELORS OF ARTS IN MULTIMEDIA AND MASS COMMUNICATION - SEMESTER  3 EXAMINATION (BAMMC 2019) : Feb - 2023
+VIDYALANKAR SCHOOL OF INFORMATION TECHNOLOGY
+WADALA, MUMBAI 400037
+(Affiliated to University of Mumbai)
+ Pg 3 of 6
+BAMMC CCPR-302
+BAMMC CMM-306
+BAMMC EM-3011
+BAMMC FCO-305
+BAMMC IP-304
+BAMMC MS-303
+ 
+CORPORATE 
+COMMUNICATION AND 
+PUBLIC RELATIONS
+COMPUTERS AND 
+MULTIMEDIA-I
+ELECTRONIC MEDIA-I
+FILM COMMUNICATION-I
+INTRODUCTION TO 
+PHOTOGRAPHY
+MEDIA STUDIES
+TOTAL
+SGPA
+RESULT
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+Exam No. - Roll No. & 
+Name
+MaxM
+75
+25
+100
+75
+25
+100
+75
+25
+100
+75
+25
+100
+75
+25
+100
+75
+25
+100
+600
+MinM
+30
+10
+30
+10
+30
+10
+30
+10
+30
+10
+30
+10
+21314A0071 - 
+21314A0071
+/GHARAT ISHA 
+PARESH SHARVARI
+MarksO
+50+
+11+
+61
+35+
+12+
+47
+39+
+10+
+49
+39
+13+
+52
+30+
+11+
+41
+33+
+12+
+45
+295
+5.60
+Successful
+Grade
+A 
+C 
+C 
+B 
+D 
+C 
+C 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+32
+10
+10
+24
+16
+20
+112
+21314A0073 - 
+21314A0073
+JAGADEESAN 
+PRASANTH 
+JALLADIAMPET 
+GOMATHI
+MarksO
+30+
+11+
+41
+30+
+10+
+40
+21F
+10+
+31
+30E
+11+
+41
+17F
+12+
+29
+30+
+10+
+40
+222
+-
+Unsuccessful
+Grade
+D 
+D 
+F
+D 
+F
+D 
+-
+C
+4
+2
+-
+4
+-
+4
+14
+GP * C
+16
+8
+0
+16
+0
+16
+0
+21314A0075 - 
+21314A0075
+/PAWAR ROSHNI 
+KISHOR NEETA
+MarksO
+30
+11+
+41
+32+
+13+
+45
+37+
+10+
+47
+34
+10+
+44
+31
+11+
+42
+42
+12+
+54
+273
+4.60
+Successful
+Grade
+D 
+C 
+C 
+D 
+D 
+B 
+D 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+16
+10
+10
+16
+16
+24
+92
+21314A0076 - 
+21314A0076
+GAWAND 
+HRISHIKESH NIKESH 
+BARKHA
+MarksO
+36
+12+
+48
+30
+11+
+41
+37
+10+
+47
+30
+11+
+41
+41
+10+
+51
+30+
+13+
+43
+271
+4.70
+Successful
+Grade
+C 
+D 
+C 
+D 
+B 
+D 
+D 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+20
+8
+10
+16
+24
+16
+94
+21314B0001 - 
+21314B0001
+/RANE  SHRAVANI  
+PRAKASH SNEHA 
+MarksO
+30+
+12+
+42
+31+
+11+
+42
+30+
+11+
+41
+30
+10+
+40
+31
+10+
+41
+30+
+16+
+46
+252
+4.20
+Successful
+Grade
+D 
+D 
+D 
+D 
+D 
+C 
+D 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+16
+8
+8
+16
+16
+20
+84
+21314B0002 - 
+21314B0002
+/THAKARE 
+YAJURVEDANI 
+MANOJ PAURNIMA
+MarksO
+34+
+11+
+45
+32+
+12+
+44
+40+
+12+
+52
+36
+10+
+46
+33
+14+
+47
+30+
+18+
+48
+282
+5.00
+Successful
+Grade
+C 
+D 
+B 
+C 
+C 
+C 
+C 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+20
+8
+12
+20
+20
+20
+100
+21314B0003 - 
+21314B0003
+KIRTIKAR HITESH 
+TANAJI KANCHAN
+MarksO
+30+
+11+
+41
+18F
+11+
+29
+18F
+10+
+28
+45E
+10+
+55
+30E
+11+
+41
+32E
+10+
+42
+236
+-
+Unsuccessful
+Grade
+D 
+F
+F
+B+
+D 
+D 
+-
+C
+4
+-
+-
+4
+4
+4
+16
+GP * C
+16
+0
+0
+28
+16
+16
+0
+21314B0004 - 
+21314B0004
+MAYEKAR SUJAL 
+SUNILDUTT SAMTA
+MarksO
+33+
+15+
+48
+37+
+15+
+52
+49+
+17+
+66
+37
+17+
+54
+41
+15+
+56
+38+
+18+
+56
+332
+6.40
+Successful
+Grade
+C 
+B 
+A 
+B 
+B+
+B+
+B 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+20
+12
+16
+24
+28
+28
+128
+21314B0005 - 
+21314B0005
+SHINDE ADITYA 
+ANIL SUVARNA
+MarksO
+30+
+10+
+40
+30+
+10+
+40
+41
+11+
+52
+30
+10+
+40
+33
+11+
+44
+35+
+10+
+45
+261
+4.40
+Successful
+Grade
+D 
+D 
+B 
+D 
+D 
+C 
+D 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+16
+8
+12
+16
+16
+20
+88
+TH    = Theory
+IA    = Internal
+PRA   = Practical 
+AB    = Absent 
+E     = Exemption
+Issued On :April 20 ,2023 
+@ : 5042/5043/5044,
+* : 5045,
+~ : 0.229,
+E : Exemption,
++ : Carried Forward,
+F : Fail
+M:50  = M < 20| 20 - 22.49| 22.5 - 24.99| 25 - 27.49| 27.5 - 29.99| 30 - 34.99| 35 - 39.99| 40 & above
+--------------------------------------------------------------------------------------------------------
+M:100 = M < 40| 40 - 44.99| 45   - 49.99| 50 - 54.99| 55   - 59.99| 60 - 69.99| 70 - 79.99| 80 & above   
+--------------------------------------------------------------------------------------------------------
+GRADE = F     | D         | C           | B         | B+          | A         | A+        | 0
+--------------------------------------------------------------------------------------------------------
+GP    = 0     | 4         | 5           | 6         | 7           | 8         | 9         | 10            
+--------------------------------------------------------------------------------------------------------
+G     = Grade            GP = Grade Point             ȈC * GP) = Sum of Product of credit & grade point
+ȈC    = Sum of Credits   GPA = Grade Point Average    ȈC * GP)/ ȈC
+M     = Marks
+TOT 1 =  TH + IN Mark
+ENTERED BY    CHECKED BY     READ BY    PRINCIPAL
+RESULT SHEET : BACHELORS OF ARTS IN MULTIMEDIA AND MASS COMMUNICATION - SEMESTER  3 EXAMINATION (BAMMC 2019) : Feb - 2023
+VIDYALANKAR SCHOOL OF INFORMATION TECHNOLOGY
+WADALA, MUMBAI 400037
+(Affiliated to University of Mumbai)
+ Pg 4 of 6
+BAMMC CCPR-302
+BAMMC CMM-306
+BAMMC EM-3011
+BAMMC FCO-305
+BAMMC IP-304
+BAMMC MS-303
+ 
+CORPORATE 
+COMMUNICATION AND 
+PUBLIC RELATIONS
+COMPUTERS AND 
+MULTIMEDIA-I
+ELECTRONIC MEDIA-I
+FILM COMMUNICATION-I
+INTRODUCTION TO 
+PHOTOGRAPHY
+MEDIA STUDIES
+TOTAL
+SGPA
+RESULT
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+Exam No. - Roll No. & 
+Name
+MaxM
+75
+25
+100
+75
+25
+100
+75
+25
+100
+75
+25
+100
+75
+25
+100
+75
+25
+100
+600
+MinM
+30
+10
+30
+10
+30
+10
+30
+10
+30
+10
+30
+10
+21314B0007 - 
+21314B0007
+/BAGUL HITAKSHI 
+SENJIT MANGAL
+MarksO
+30+
+13+
+43
+38+
+13+
+51
+37+
+12+
+49
+30
+14+
+44
+30+
+11+
+41
+32+
+17+
+49
+277
+4.50
+Successful
+Grade
+D 
+B 
+C 
+D 
+D 
+C 
+D 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+16
+12
+10
+16
+16
+20
+90
+21314B0008 - 
+21314B0008
+MASAVKAR TUSHAR 
+SUNIL SARIKA
+MarksO
+30+
+14+
+44
+35+
+12+
+47
+39+
+15+
+54
+32
+10+
+42
+31+
+12+
+43
+30+
+15+
+45
+275
+4.50
+Successful
+Grade
+D 
+C 
+B 
+D 
+D 
+C 
+D 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+16
+10
+12
+16
+16
+20
+90
+21314B0009 - 
+21314B0009
+/WAGHELA NIDHI  
+HEMNATH BHAVANA
+MarksO
+31E
+16+
+47
+22F
+20+
+42
+30+
+15+
+45
+30E
+16+
+46
+32E
+15+
+47
+30+
+18+
+48
+275
+-
+Unsuccessful
+Grade
+C 
+F
+C 
+C 
+C 
+C 
+-
+C
+4
+-
+2
+4
+4
+4
+18
+GP * C
+20
+0
+10
+20
+20
+20
+0
+21314B0010 - 
+21314B0010
+AMIN ROHIT 
+JAYANTHA PRABHA
+MarksO
+30+
+11+
+41
+36+
+11+
+47
+30+
+10+
+40
+31
+12+
+43
+34
+12+
+46
+33+
+13+
+46
+263
+4.50
+Successful
+Grade
+D 
+C 
+D 
+D 
+C 
+C 
+D 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+16
+10
+8
+16
+20
+20
+90
+21314B0011 - 
+21314B0011
+KURIL PRASHANT 
+SHREEPAL MAMTA
+MarksO
+30+
+10E
+40
+41+
+12+
+53
+37+
+AB
+37
+15F
+AB
+15
+33E
+10E
+43
+35E
+AB
+35
+223
+-
+Unsuccessful
+Grade
+D 
+B 
+F
+F
+D 
+F
+-
+C
+4
+2
+-
+-
+4
+-
+10
+GP * C
+16
+12
+0
+0
+16
+0
+0
+21314B0012 - 
+21314B0012
+NAKTE OMKAR 
+NARESH SAVITA
+MarksO
+33+
+12+
+45
+36+
+12+
+48
+33+
+11+
+44
+30
+11+
+41
+30
+12+
+42
+30+
+16+
+46
+266
+4.50
+Successful
+Grade
+C 
+C 
+D 
+D 
+D 
+C 
+D 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+20
+10
+8
+16
+16
+20
+90
+21314B0014 - 
+21314B0014
+/KORGAONKAR RIYA 
+PRASHANT PRACHI
+MarksO
+30+
+15+
+45
+40+
+14+
+54
+42+
+14+
+56
+36
+13+
+49
+38
+12+
+50
+30+
+19+
+49
+303
+5.50
+Successful
+Grade
+C 
+B 
+B+
+C 
+B 
+C 
+C 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+20
+12
+14
+20
+24
+20
+110
+21314B0015 - 
+21314B0015
+TIKAM YASH  
+DINESH SHRADDHA
+MarksO
+30+
+10+
+40
+34+
+11+
+45
+30+
+10+
+40
+30E
+11+
+41
+19F
+10+
+29
+33+
+10+
+43
+238
+-
+Unsuccessful
+Grade
+D 
+C 
+D 
+D 
+F
+D 
+-
+C
+4
+2
+2
+4
+-
+4
+16
+GP * C
+16
+10
+8
+16
+0
+16
+0
+21314B0017 - 
+21314B0017
+BHALERAO YASH 
+ARVIND SADHANA
+MarksO
+35+
+13+
+48
+31+
+13+
+44
+33+
+12+
+45
+30
+11+
+41
+33
+11+
+44
+30+
+12+
+42
+264
+4.30
+Successful
+Grade
+C 
+D 
+C 
+D 
+D 
+D 
+D 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+20
+8
+10
+16
+16
+16
+86
+TH    = Theory
+IA    = Internal
+PRA   = Practical 
+AB    = Absent 
+E     = Exemption
+Issued On :April 20 ,2023 
+@ : 5042/5043/5044,
+* : 5045,
+~ : 0.229,
+E : Exemption,
++ : Carried Forward,
+F : Fail
+M:50  = M < 20| 20 - 22.49| 22.5 - 24.99| 25 - 27.49| 27.5 - 29.99| 30 - 34.99| 35 - 39.99| 40 & above
+--------------------------------------------------------------------------------------------------------
+M:100 = M < 40| 40 - 44.99| 45   - 49.99| 50 - 54.99| 55   - 59.99| 60 - 69.99| 70 - 79.99| 80 & above   
+--------------------------------------------------------------------------------------------------------
+GRADE = F     | D         | C           | B         | B+          | A         | A+        | 0
+--------------------------------------------------------------------------------------------------------
+GP    = 0     | 4         | 5           | 6         | 7           | 8         | 9         | 10            
+--------------------------------------------------------------------------------------------------------
+G     = Grade            GP = Grade Point             ȈC * GP) = Sum of Product of credit & grade point
+ȈC    = Sum of Credits   GPA = Grade Point Average    ȈC * GP)/ ȈC
+M     = Marks
+TOT 1 =  TH + IN Mark
+ENTERED BY    CHECKED BY     READ BY    PRINCIPAL
+RESULT SHEET : BACHELORS OF ARTS IN MULTIMEDIA AND MASS COMMUNICATION - SEMESTER  3 EXAMINATION (BAMMC 2019) : Feb - 2023
+VIDYALANKAR SCHOOL OF INFORMATION TECHNOLOGY
+WADALA, MUMBAI 400037
+(Affiliated to University of Mumbai)
+ Pg 5 of 6
+BAMMC CCPR-302
+BAMMC CMM-306
+BAMMC EM-3011
+BAMMC FCO-305
+BAMMC IP-304
+BAMMC MS-303
+ 
+CORPORATE 
+COMMUNICATION AND 
+PUBLIC RELATIONS
+COMPUTERS AND 
+MULTIMEDIA-I
+ELECTRONIC MEDIA-I
+FILM COMMUNICATION-I
+INTRODUCTION TO 
+PHOTOGRAPHY
+MEDIA STUDIES
+TOTAL
+SGPA
+RESULT
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+Exam No. - Roll No. & 
+Name
+MaxM
+75
+25
+100
+75
+25
+100
+75
+25
+100
+75
+25
+100
+75
+25
+100
+75
+25
+100
+600
+MinM
+30
+10
+30
+10
+30
+10
+30
+10
+30
+10
+30
+10
+21341A0016 - 
+21314A0016
+PALSHETKAR SAHIL 
+RAJESH SAYALI
+MarksO
+30+
+12+
+42
+30+
+12+
+42
+30+
+14+
+44
+30
+12+
+42
+30+
+11+
+41
+32+
+15+
+47
+258
+4.20
+Successful
+Grade
+D 
+D 
+D 
+D 
+D 
+C 
+D 
+C
+4
+2
+2
+4
+4
+4
+20
+GP * C
+16
+8
+8
+16
+16
+20
+84
+TH    = Theory
+IA    = Internal
+PRA   = Practical 
+AB    = Absent 
+E     = Exemption
+Issued On :April 20 ,2023 
+@ : 5042/5043/5044,
+* : 5045,
+~ : 0.229,
+E : Exemption,
++ : Carried Forward,
+F : Fail
+M:50  = M < 20| 20 - 22.49| 22.5 - 24.99| 25 - 27.49| 27.5 - 29.99| 30 - 34.99| 35 - 39.99| 40 & above
+--------------------------------------------------------------------------------------------------------
+M:100 = M < 40| 40 - 44.99| 45   - 49.99| 50 - 54.99| 55   - 59.99| 60 - 69.99| 70 - 79.99| 80 & above   
+--------------------------------------------------------------------------------------------------------
+GRADE = F     | D         | C           | B         | B+          | A         | A+        | 0
+--------------------------------------------------------------------------------------------------------
+GP    = 0     | 4         | 5           | 6         | 7           | 8         | 9         | 10            
+--------------------------------------------------------------------------------------------------------
+G     = Grade            GP = Grade Point             ȈC * GP) = Sum of Product of credit & grade point
+ȈC    = Sum of Credits   GPA = Grade Point Average    ȈC * GP)/ ȈC
+M     = Marks
+TOT 1 =  TH + IN Mark
+ENTERED BY    CHECKED BY     READ BY    PRINCIPAL
+RESULT SHEET : BACHELORS OF ARTS IN MULTIMEDIA AND MASS COMMUNICATION - SEMESTER  3 EXAMINATION (BAMMC 2019) : Feb - 2023
+VIDYALANKAR SCHOOL OF INFORMATION TECHNOLOGY
+WADALA, MUMBAI 400037
+(Affiliated to University of Mumbai)
+ Pg 6 of 6

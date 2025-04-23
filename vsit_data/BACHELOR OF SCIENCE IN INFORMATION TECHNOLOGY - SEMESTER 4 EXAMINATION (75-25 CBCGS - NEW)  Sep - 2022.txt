@@ -1,0 +1,1249 @@
+USIT401
+USIT402
+USIT403
+USIT404
+USIT405
+USIT4P1
+USIT4P2
+USIT4P3
+USIT4P4
+USIT4P5
+ 
+CORE JAVA
+INTRODUCTION TO 
+EMBEDDED SYSTEMS 
+COMPUTER ORIENTED 
+STATISTICAL 
+TECHNIQUES
+SOFTWARE ENGINEERING COMPUTER GRAPHICS 
+AND ANIMATION 
+CORE JAVA 
+PRACTICAL
+INTRODUCTION 
+TO EMBEDDED 
+SYSTEMS 
+PRACTICAL
+COMPUTER 
+ORIENTED 
+STATISTICAL 
+TECHNIQUES PR
+SOFTWARE 
+ENGINEERING 
+PRACTICAL
+COMPUTER 
+GRAPHICS AND 
+ANIMATION 
+PRACTICAL
+TOTAL
+SGPA
+RESULT
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+PR
+TOT1
+PR
+TOT1
+PR
+TOT1
+PR
+TOT1
+PR
+TOT1
+Exam No. - Roll No. & 
+Name
+MaxM
+75
+25
+100
+75
+25
+100
+75
+25
+100
+75
+25
+100
+75
+25
+100
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+750
+MinM
+30
+10
+30
+10
+30
+10
+30
+10
+30
+10
+20
+20
+20
+20
+20
+20301B0057 - 
+20301B0057
+JAISWAR VIVEK 
+KAMLESH CHINTA 
+DEVI
+MarksO
+60+
+16+
+76
+57+
+14+
+71
+54+
+20+
+74
+44+
+18+
+62
+62+
+13+
+75
+20
+20
+20+
+20
+25+
+25
+38+
+38
+40+
+40
+501
+7.70
+Successful
+Grade
+A+
+A+
+A+
+A 
+A+
+D 
+D 
+B 
+A+
+O 
+B+
+C
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+GP * C
+18
+18
+18
+16
+18
+8
+8
+12
+18
+20
+154
+20302A0013 - 
+20302A0013
+/SAW SAPNA 
+ARVIND RINKIDEVI
+MarksO
+54+
+17+
+71
+45+
+10+
+55
+54+
+17+
+71
+35+
+12+
+47
+45+
+14+
+59
+25+
+25
+20
+20
+20+
+20
+35+
+35
+27
+27
+430
+6.60
+Successful
+Grade
+A+
+B+
+A+
+C 
+B+
+B 
+D 
+D 
+A+
+B 
+B 
+C
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+GP * C
+18
+14
+18
+10
+14
+12
+8
+8
+18
+12
+132
+20302A0027 - 
+20302A0027
+PATIL  SAKSHAM 
+SANTOSH 
+RAJASHREE
+MarksO
+45+
+15+
+60
+53+
+15+
+68
+59+
+19+
+78
+38+
+11+
+49
+53+
+13+
+66
+20+
+20
+21+
+21
+21+
+21
+30
+30
+20
+20
+433
+6.20
+Successful
+Grade
+A 
+A 
+A+
+C 
+A 
+D 
+D 
+D 
+A 
+D 
+B 
+C
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+GP * C
+16
+16
+18
+10
+16
+8
+8
+8
+16
+8
+124
+20302A0056 - 
+20302A0056
+- MAAZ HUSSAIN 
+SALEEM NUSRAT
+MarksO
+48+
+10+
+58
+50+
+11+
+61
+50+
+13+
+63
+33+
+10+
+43
+51+
+10+
+61
+39+
+39
+AB
+28+
+28
+35+
+35
+40+
+40
+428
+-
+Unsuccessful
+Grade
+B+
+A 
+A 
+D 
+A 
+A+
+F
+B+
+A+
+O 
+-
+C
+2
+2
+2
+2
+2
+2
+-
+2
+2
+2
+18
+GP * C
+14
+16
+16
+8
+16
+18
+0
+14
+18
+20
+0
+20302B0010 - 
+20302B0010
+GURAV OMKAR 
+PRASHANT 
+PRAJAKTA
+MarksO
+44+
+13+
+57
+50+
+15+
+65
+53+
+17+
+70
+53+
+16+
+69
+56+
+19+
+75
+30+
+30
+21
+21
+40+
+40
+43+
+43
+30+
+30
+500
+8.10
+Successful
+Grade
+B+
+A 
+A+
+A 
+A+
+A 
+D 
+O 
+O 
+A 
+A 
+C
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+GP * C
+14
+16
+18
+16
+18
+16
+8
+20
+20
+16
+162
+20302B0013 - 
+20302B0013
+SHASTRI ROHIT 
+RAJKUMAR REKHA
+MarksO
+66+
+17+
+83
+65+
+16+
+81
+62+
+17+
+79
+59+
+21+
+80
+68+
+18+
+86
+30+
+30
+21
+21
+35+
+35
+45+
+45
+37+
+37
+577
+8.90
+Successful
+Grade
+O 
+O 
+A+
+O 
+O 
+A 
+D 
+A+
+O 
+A+
+A 
+C
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+GP * C
+20
+20
+18
+20
+20
+16
+8
+18
+20
+18
+178
+20302B0025 - 
+20302B0025
+MULLA RASHID MD 
+MAJID RAZIYA
+MarksO
+50+
+15+
+65
+47+
+13+
+60
+48+
+13+
+61
+44+
+15+
+59
+44+
+15+
+59
+24+
+24
+23+
+23
+20+
+20
+30
+30
+37+
+37
+438
+6.90
+Successful
+Grade
+A 
+A 
+A 
+B+
+B+
+C 
+C 
+D 
+A 
+A+
+B 
+C
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+GP * C
+16
+16
+16
+14
+14
+10
+10
+8
+16
+18
+138
+20302B0043 - 
+20302B0043
+ANSARI AMAAN 
+RAZA NAUSHAD ALI 
+ANJUM AKRA
+MarksO
+59+
+12+
+71
+42+
+12+
+54
+54+
+14+
+68
+35+
+16+
+51
+53+
+13+
+66
+22+
+22
+20+
+20
+20+
+20
+30
+30
+20
+20
+422
+6.10
+Successful
+Grade
+A+
+B 
+A 
+B 
+A 
+D 
+D 
+D 
+A 
+D 
+B 
+C
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+GP * C
+18
+12
+16
+12
+16
+8
+8
+8
+16
+8
+122
+20302B0062 - 
+20302B0062
+SHAIKH ARSALAN 
+JAVED SUMAIYA
+MarksO
+56+
+16+
+72
+42+
+12+
+54
+42+
+15+
+57
+33+
+16+
+49
+39+
+13+
+52
+22+
+22
+20
+20
+30+
+30
+22+
+22
+42+
+42
+420
+6.30
+Successful
+Grade
+A+
+B 
+B+
+C 
+B 
+D 
+D 
+A 
+D 
+O 
+B 
+C
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+GP * C
+18
+12
+14
+10
+12
+8
+8
+16
+8
+20
+126
+TH    = Theory
+IA    = Internal
+PRA   = Practical 
+AB    = Absent 
+E     = Exemption
+Issued On :October 31 ,2022 
+@ : 5042/5043/5044,
+* : 5045,
+~ : 0.229,
+E : Exemption,
++ : Carried Forward,
+F : Fail
+M:50  = M < 20| 20 - 22.49| 22.5 - 24.99| 25 - 27.49| 27.5 - 29.99| 30 - 34.99| 35 - 39.99| 40 & above
+--------------------------------------------------------------------------------------------------------
+M:100 = M < 40| 40 - 44.99| 45   - 49.99| 50 - 54.99| 55   - 59.99| 60 - 69.99| 70 - 79.99| 80 & above   
+--------------------------------------------------------------------------------------------------------
+GRADE = F     | D         | C           | B         | B+          | A         | A+        | 0
+--------------------------------------------------------------------------------------------------------
+GP    = 0     | 4         | 5           | 6         | 7           | 8         | 9         | 10            
+--------------------------------------------------------------------------------------------------------
+G     = Grade            GP = Grade Point             ȈC * GP) = Sum of Product of credit & grade point
+ȈC    = Sum of Credits   GPA = Grade Point Average    ȈC * GP)/ ȈC
+M     = Marks
+TOT 1 =  TH + IN Mark
+ENTERED BY    CHECKED BY     READ BY    PRINCIPAL
+RESULT SHEET : BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY - SEMESTER  4 EXAMINATION (75-25 CBCGS - NEW) : Sep - 2022
+VIDYALANKAR SCHOOL OF INFORMATION TECHNOLOGY
+WADALA, MUMBAI 400037
+(Affiliated to University of Mumbai)
+ Pg 1 of 2
+USIT401
+USIT402
+USIT403
+USIT404
+USIT405
+USIT4P1
+USIT4P2
+USIT4P3
+USIT4P4
+USIT4P5
+ 
+CORE JAVA
+INTRODUCTION TO 
+EMBEDDED SYSTEMS 
+COMPUTER ORIENTED 
+STATISTICAL 
+TECHNIQUES
+SOFTWARE ENGINEERING COMPUTER GRAPHICS 
+AND ANIMATION 
+CORE JAVA 
+PRACTICAL
+INTRODUCTION 
+TO EMBEDDED 
+SYSTEMS 
+PRACTICAL
+COMPUTER 
+ORIENTED 
+STATISTICAL 
+TECHNIQUES PR
+SOFTWARE 
+ENGINEERING 
+PRACTICAL
+COMPUTER 
+GRAPHICS AND 
+ANIMATION 
+PRACTICAL
+TOTAL
+SGPA
+RESULT
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+TH
+IN
+TOT1
+PR
+TOT1
+PR
+TOT1
+PR
+TOT1
+PR
+TOT1
+PR
+TOT1
+Exam No. - Roll No. & 
+Name
+MaxM
+75
+25
+100
+75
+25
+100
+75
+25
+100
+75
+25
+100
+75
+25
+100
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+750
+MinM
+30
+10
+30
+10
+30
+10
+30
+10
+30
+10
+20
+20
+20
+20
+20
+20302B0065 - 
+20302B0065
+SATIYA MEET 
+PRAVIN RASHMI
+MarksO
+56+
+12+
+68
+53+
+12+
+65
+53+
+12+
+65
+45+
+19+
+64
+57+
+13+
+70
+22+
+22
+20+
+20
+20+
+20
+37
+37
+20
+20
+451
+6.60
+Successful
+Grade
+A 
+A 
+A 
+A 
+A+
+D 
+D 
+D 
+A+
+D 
+B 
+C
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+GP * C
+16
+16
+16
+16
+18
+8
+8
+8
+18
+8
+132
+20302D0062 - 
+20302D0062
+SINGH AJAY 
+VEERBAHADUR 
+KAMLA
+MarksO
+62+
+16+
+78
+45+
+12+
+57
+56+
+16+
+72
+47+
+15+
+62
+53+
+14+
+67
+22+
+22
+20
+20
+23+
+23
+35+
+35
+35+
+35
+471
+7.20
+Successful
+Grade
+A+
+B+
+A+
+A 
+A 
+D 
+D 
+C 
+A+
+A+
+B+
+C
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+GP * C
+18
+14
+18
+16
+16
+8
+8
+10
+18
+18
+144
+20302D0064 - 
+20302D0064
+JAIN DARSHAN 
+RAJMAL SANGEETA
+MarksO
+38+
+10+
+48
+33+
+10+
+43
+36+
+10+
+46
+30+
+10+
+40
+42+
+10+
+52
+20+
+20
+20+
+20
+20+
+20
+36
+36
+22
+22
+347
+4.90
+Successful
+Grade
+C 
+D 
+C 
+D 
+B 
+D 
+D 
+D 
+A+
+D 
+D 
+C
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+GP * C
+10
+8
+10
+8
+12
+8
+8
+8
+18
+8
+98
+21302E3004 - 
+21302E3004
+KATKAM ROHIT 
+RAKJUMAR 
+SHAMALA
+MarksO
+51+
+14+
+65
+50+
+10+
+60
+48+
+15+
+63
+41+
+10+
+51
+48+
+12+
+60
+33+
+33
+21
+21
+20+
+20
+23+
+23
+30+
+30
+426
+6.70
+Successful
+Grade
+A 
+A 
+A 
+B 
+A 
+A 
+D 
+D 
+C 
+A 
+B 
+C
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+GP * C
+16
+16
+16
+12
+16
+16
+8
+8
+10
+16
+134
+21302E3008 - 
+21302E3008
+NEVAGI AMEYA 
+SATISH SMITA
+MarksO
+38+
+11+
+49
+32+
+10+
+42
+35+
+12+
+47
+30+
+14+
+44
+45+
+11+
+56
+23+
+23
+20
+20
+20+
+20
+20+
+20
+30+
+30
+351
+5.00
+Successful
+Grade
+C 
+D 
+C 
+D 
+B+
+C 
+D 
+D 
+D 
+A 
+C 
+C
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+20
+GP * C
+10
+8
+10
+8
+14
+10
+8
+8
+8
+16
+100
+TH    = Theory
+IA    = Internal
+PRA   = Practical 
+AB    = Absent 
+E     = Exemption
+Issued On :October 31 ,2022 
+@ : 5042/5043/5044,
+* : 5045,
+~ : 0.229,
+E : Exemption,
++ : Carried Forward,
+F : Fail
+M:50  = M < 20| 20 - 22.49| 22.5 - 24.99| 25 - 27.49| 27.5 - 29.99| 30 - 34.99| 35 - 39.99| 40 & above
+--------------------------------------------------------------------------------------------------------
+M:100 = M < 40| 40 - 44.99| 45   - 49.99| 50 - 54.99| 55   - 59.99| 60 - 69.99| 70 - 79.99| 80 & above   
+--------------------------------------------------------------------------------------------------------
+GRADE = F     | D         | C           | B         | B+          | A         | A+        | 0
+--------------------------------------------------------------------------------------------------------
+GP    = 0     | 4         | 5           | 6         | 7           | 8         | 9         | 10            
+--------------------------------------------------------------------------------------------------------
+G     = Grade            GP = Grade Point             ȈC * GP) = Sum of Product of credit & grade point
+ȈC    = Sum of Credits   GPA = Grade Point Average    ȈC * GP)/ ȈC
+M     = Marks
+TOT 1 =  TH + IN Mark
+ENTERED BY    CHECKED BY     READ BY    PRINCIPAL
+RESULT SHEET : BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY - SEMESTER  4 EXAMINATION (75-25 CBCGS - NEW) : Sep - 2022
+VIDYALANKAR SCHOOL OF INFORMATION TECHNOLOGY
+WADALA, MUMBAI 400037
+(Affiliated to University of Mumbai)
+ Pg 2 of 2

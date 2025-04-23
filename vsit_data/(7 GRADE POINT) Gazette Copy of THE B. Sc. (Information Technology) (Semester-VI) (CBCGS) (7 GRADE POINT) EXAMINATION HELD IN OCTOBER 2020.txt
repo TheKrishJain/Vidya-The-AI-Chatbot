@@ -1,0 +1,97 @@
+ 
+ 
+                                   UNIVERSITY OF MUMBAI                                                       NOVEMBER 06, 2020 
+     OFFICE REGISTER FOR THE B. Sc. (Information Technology) (Semester-VI) (CBCGS) (7 GRADE POINT) EXAMINATION HELD IN OCTOBER 2020 
+                                COLLEGE :  640 Vidyalankar School of Information Technology                   PAGE :   93 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  SEAT_NO  NAME                                                        PRN                                CENTRE 
+      <-----Course-I----->   <-----Course-II----->  <-----Course-III---->  <-----Course-IV----->   <-----Course-V------>  
+      Th(75/30)              Th(75/30)              Th(75/30)              Th(75/30)               Th(75/30)                 TOTAL 
+      In(25/10)              In(25/10)              In(25/10)              In(25/10)               In(25/10)                 MARKS   RESULT REMARK 
+      TOT     GP G   C G*C   TOT     GP G   C  G*C  TOT     GP G   C  G*C  TOT     GP  G   C  G*C  TOT     GP  G   C  G*C   äC  äCG   GPA   GRADE 
+      Pr(150/60)             Pr(50/20)              Pr(50/20)              Pr(50/20)               Pr(50/20)  
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  1:Software Qlty. Assurance   2:Security in Computing       3:Business Intelligence       4:Principles of G.I.S.        6:IT Service Management     
+  8:Project Implementation     9:Security in Computing(PR)  10:Business Intelligence(PR)  11:Principles of G.I.S. (PR)  13:Advanced Mob. Programming 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  4020525  BHATKAR MOHMAD SUHEL SAMIR SHABNAM                    (2015016401011623)                   2:DADAR              
+ 
+      63                     69                     75                     72                      72  
+      13                     13                     13                     13                      12  
+      76      7  O   2  14   82      7  O   2  14   88      7  O   2  14   85      7   O   2  14   84      7   O   2  14     673        P  RLE 
+     108      7  O   2  14   35      7  O   2  14   42      7  O   2  14   35      7   O   2  14   38      7   O   2  14    20  140  7.00       O  
+ 
+    SGPI :   SEM-I :  3.80 ;       SEM-II :  0.00 ;     SEM-III :  0.00 ;     SEM-IV :  0.00 ;     SEM-V :  5.80 ;      CGPI :  --          -- 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  4020528  BHOIR AKSHAY VIJAY GEETA                              (2015016401019441)                   2:DADAR              
+ 
+      72                     75                     75                     75                      75  
+      14                     13                     13                     12                      15  
+      86      7  O   2  14   88      7  O   2  14   88      7  O   2  14   87      7   O   2  14   90      7   O   2  14     692        P  RLE 
+     108      7  O   2  14   35      7  O   2  14   40      7  O   2  14   30      6   A   2  12   40      7   O   2  14    20  138  6.90       A  
+ 
+    SGPI :   SEM-I :  3.20 ;       SEM-II :  2.60 ;     SEM-III :  0.00 ;     SEM-IV :  0.00 ;     SEM-V :  5.80 ;      CGPI :  --          -- 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  1:Software Qlty. Assurance   2:Security in Computing       3:Business Intelligence       4:Principles of G.I.S.        7:Cyber Laws                
+  8:Project Implementation     9:Security in Computing(PR)  10:Business Intelligence(PR)  11:Principles of G.I.S. (PR)  13:Advanced Mob. Programming 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  4028571  GUNAWANTHAGIRI VIKAS ARJUN SAUBHAGYA                  (2015016401021544)                   2:DADAR              
+ 
+      72                     66                     30+                    30+                     36+             
+      10+                    10+                    11+                    15+                     11+             
+      82      7  O   2  14   76      7  O   2  14   41      2  E   2   4   45      3   D   2   6   47      3   D   2   6     542        P  RLE 
+     121+     7  O   2  14   21+     2  E   2   4   26+     4  C   2   8   41+     7   O   2  14   42+     7   O   2  14    20   98  4.90       C  
+ 
+    SGPI :   SEM-I :  2.40 ;       SEM-II :  3.00 ;     SEM-III :  4.80 ;     SEM-IV :  0.00 ;     SEM-V :  5.00 ;      CGPI :  --          -- 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  1:Software Qlty. Assurance   2:Security in Computing       3:Business Intelligence       4:Principles of G.I.S.        6:IT Service Management     
+  8:Project Implementation     9:Security in Computing(PR)  10:Business Intelligence(PR)  11:Principles of G.I.S. (PR)  13:Advanced Mob. Programming 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  4028576  DOLAS PRASAD ARUN SUVARNA                             (2015016401019007)                   2:DADAR              
+ 
+      30+                    63                     69                     30+                     30+             
+      11+                    10+                    12+                    10+                     10+             
+      41      2  E   2   4   73      7  O   2  14   81      7  O   2  14   40      2   E   2   4   40      2   E   2   4     510        P  RLE 
+     120+     7  O   2  14   23+     3  D   2   6   28+     5  B   2  10   36+     7   O   2  14   28+     5   B   2  10    20   94  4.70       C  
+ 
+    SGPI :   SEM-I :  4.20 ;       SEM-II :  2.40 ;     SEM-III :  2.80 ;     SEM-IV :  0.00 ;     SEM-V :  4.70 ;      CGPI :  --          -- 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+ #:0.229; @:O.5042A/O.5043A/O.5044A; *:O.5045A; /:FEMALE; AA/ABS: ABSENT; P: SUCCESSFUL; F: UNSUCCESSFUL; E: EXMP CAN BE CLAIMED; 
+ ~: Dyslexia; +: MARKS CARRIED FORWARD; $: GRADE CARRIED FORWARD; RCC: O.5050; RPV: PROVISIONAL; NULL: NULL & VOID.; 
+ RR: RESERVED; ADC: ADMISSION CANCELLED; C: CREDIT POINTS; G: GRADE POINTS; GPA: GRADE POINT AVERAGE=SUM OF CxG / SUM OF C; 
+ %Marks        :  Above 70       60-69.99      55-59.99         50-54.99       45-49.99         40-44.99        Less than 40 
+ Grade / Gr.Pt :   O / 7          A / 6         B / 5            C / 4          D / 3            E / 2              F / 0 
+ -------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+                                   UNIVERSITY OF MUMBAI                                                       NOVEMBER 06, 2020 
+     OFFICE REGISTER FOR THE B. Sc. (Information Technology) (Semester-VI) (CBCGS) (7 GRADE POINT) EXAMINATION HELD IN OCTOBER 2020 
+                                COLLEGE :  640 Vidyalankar School of Information Technology                   PAGE :   94 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  SEAT_NO  NAME                                                        PRN                                CENTRE 
+      <-----Course-I----->   <-----Course-II----->  <-----Course-III---->  <-----Course-IV----->   <-----Course-V------>  
+      Th(75/30)              Th(75/30)              Th(75/30)              Th(75/30)               Th(75/30)                 TOTAL 
+      In(25/10)              In(25/10)              In(25/10)              In(25/10)               In(25/10)                 MARKS   RESULT REMARK 
+      TOT     GP G   C G*C   TOT     GP G   C  G*C  TOT     GP G   C  G*C  TOT     GP  G   C  G*C  TOT     GP  G   C  G*C   äC  äCG   GPA   GRADE 
+      Pr(150/60)             Pr(50/20)              Pr(50/20)              Pr(50/20)               Pr(50/20)  
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  1:Software Qlty. Assurance   2:Security in Computing       3:Business Intelligence       4:Principles of G.I.S.        7:Cyber Laws                
+  8:Project Implementation     9:Security in Computing(PR)  10:Business Intelligence(PR)  11:Principles of G.I.S. (PR)  13:Advanced Mob. Programming 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  4028586  KOKANE GIRIRAJ RAJENDRA REKHA                         (2015016401016083)                   2:DADAR              
+ 
+      32+                    32+                    30+                    63                      72  
+      10+                    10+                    13+                    17+                     16+             
+      42      2  E   2   4   42      2  E   2   4   43      2  E   2   4   80      7   O   2  14   88      7   O   2  14     556        P 
+     121+     7  O   2  14   23+     3  D   2   6   46+     7  O   2  14   36+     7   O   2  14   35+     7   O   2  14    20  102  5.10       B  
+ 
+    SGPI :   SEM-I :  3.60 ;       SEM-II :  4.20 ;     SEM-III :  4.30 ;     SEM-IV :  3.60 ;     SEM-V :  3.80 ;      CGPI :  4.10        C  
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+ #:0.229; @:O.5042A/O.5043A/O.5044A; *:O.5045A; /:FEMALE; AA/ABS: ABSENT; P: SUCCESSFUL; F: UNSUCCESSFUL; E: EXMP CAN BE CLAIMED; 
+ ~: Dyslexia; +: MARKS CARRIED FORWARD; $: GRADE CARRIED FORWARD; RCC: O.5050; RPV: PROVISIONAL; NULL: NULL & VOID.; 
+ RR: RESERVED; ADC: ADMISSION CANCELLED; C: CREDIT POINTS; G: GRADE POINTS; GPA: GRADE POINT AVERAGE=SUM OF CxG / SUM OF C; 
+ %Marks        :  Above 70       60-69.99      55-59.99         50-54.99       45-49.99         40-44.99        Less than 40 
+ Grade / Gr.Pt :   O / 7          A / 6         B / 5            C / 4          D / 3            E / 2              F / 0 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 

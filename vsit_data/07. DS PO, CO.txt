@@ -1,0 +1,494 @@
+ 
+  
+ 
+ 
+Program Name : Bachelor of Science In Data Science (B.Sc.DS) 
+Program Outcomes
+ 
+
+
+PO1: Build a strong foundation of statistics for data science.  
+PO2: Use all the features and new updates of Python and R for data science.  
+PO3: Perform scientific and technical computing using the Python SciPy 
+package and its sub packages Integrate, Optimize, Statistics, IO, and Weave.  
+PO4: Gain expertise in mathematical computing using the NumPy and Scikit-
+Learn package.  
+PO5: Gain an in-depth understanding of data structure and data manipulation.  
+PO6: Understand and use linear and non-linear regression models and 
+classification techniques for data analysis. 
+PO7: Obtain a comprehensive knowledge of supervised and unsupervised 
+learning models such as linear regression, logistic regression, clustering, 
+dimensionality reduction, K-NN and pipeline. 
+PO8: Master the concepts recommendation engine, time series modelling, 
+gain practical mastery over principles, algorithms, and applications of 
+Machine Learning. 
+PO9: Learn to analyse data using Tableau and Power BI and become 
+proficient in building interactive dashboards.  
+PO10: Understand deep reinforcement learning techniques applied in Natural 
+Language Processing.  
+PO11: Understand the different components of the Hadoop ecosystem and 
+learn to work with HBase, its architecture and data storage, learning the 
+difference between HBase and RDBMS, and use Hive and Impala for 
+partitioning.  
+PO12: Understand Map Reduce and its characteristics and learn how to ingest 
+data using Sqoop and Flume. 
+ 
+  
+Course Outcomes  
+ 
+ 
+Program Name and 
+Semester 
+ 
+Bachelor of Science in Data Science (B.Sc.DS) 
+Semester -I  
+ 
+Course Name 
+Course Outcomes 
+Descriptive Statistics 
+CO1: To understand the use and importance of statistical data by 
+tabulating and implementing sampling methods. 
+CO2: Able to identify association between the variables as well as 
+Computing Consistent and in Consistent data. 
+CO3: Able to Compute level of measures and apply as well as interpret 
+data into graphs. 
+CO4: Apply measure of central tendency to minimize the sum of 
+squared deviation. 
+CO5: Able to understand the basic assumption behind regression 
+analysis and determine the model is significance as well as able to apply 
+various techniques for the modelling. 
+ 
+Introduction to 
+Programming 
+CO1: Proficiency in using and applying various data types including 
+string, array list, tuple and dictionary. 
+CO2: Ability to use regular expressions to perform Complex operations 
+in less Code. 
+CO3: Learning to make use of date and time in Python for various 
+applications. 
+CO4: Proficiency in using IPython architecture for Data Science 
+Applications. 
+CO5: Knowledge about the use of various data science tools. 
+ 
+Web Technology 
+CO1: Understand the meaning of the basic terminologies of web 
+technology and explore, use the HTML5 Concepts. Understand the 
+basic requirements of web design. 
+CO2: Understand and use the Page layout, Navigation, Tables, Forms 
+and Media features of HTML5. 
+CO3: Understand and use Cascading Style sheet for beatifying the web 
+pages. 
+CO4: Implement Java Script for validation of user forms in web pages. 
+CO5: To design the technique of transmitting data between a server and 
+web application using JSON. 
+ 
+Business 
+Communication and 
+Information Ethics 
+CO1: Communicate effectively in non-verbal way, draft and write 
+effective business letters. 
+CO2: Effectively carryout Communication activities of business by 
+following email etiquettes, drafting memos. 
+CO3: Write elegant business reports and prepare user instruction 
+manual. 
+CO4: Apply information ethics in all walks of life. 
+CO5: Become a good Communicator in life. 
+Precalculus 
+CO1: Apply the knowledge of numbers, graph and functions in real life. 
+ 
+  
+Course Outcomes  
+ 
+ 
+Course Name 
+Course Outcomes 
+CO2: Apply trigonometry in modelling real life problems.  
+CO3: Use analytic trigonometry and inverse circular functions to solve 
+a variety of problems. 
+CO4: Apply complex numbers theory to different domains, use vectors 
+and matrices to solve real life problems. 
+CO5: Identify different types of conics from equations, understand 
+sequences and series and basics of limits and derivatives. 
+ 
+ 
+  
+Course Outcomes  
+s 
+ 
+Program Name and 
+Semester 
+ 
+Bachelor of Science in Data Science (B.Sc.DS) 
+Semester -II 
+ 
+Course Name 
+Course Outcomes 
+Probability and 
+Distributions 
+CO1: Organize, manage and present data. 
+CO2: Analyse statistical data graphically using frequency 
+distributions and cumulative frequency distributions. 
+CO3: Use the basic probability rules, including additive and 
+multiplicative laws, using the terms, independent and mutually 
+exclusive events. 
+CO4: Translate real-world problems into probability models. 
+CO5: Derive the probability density function of transformation of 
+random variables.  
+CO6: Calculate probabilities and derive the marginal and 
+conditional distributions of bivariate random variables. 
+Database 
+Management 
+CO1: Students should be able to evaluate business information 
+problem and find the requirements of a problem in terms of data. 
+CO2: Students should be able to draw database design in logical 
+structure and can identify the entities which exist in a system 
+CO3: Students should be able to construct normalized database and 
+functional dependencies between attributes and relational algebra 
+queries 
+CO4: Students should be able to design the database schema with 
+the use of appropriate data types for storage of data in database. 
+CO5: Students should be able to create, manipulate, query and back 
+up the databases with features of SQL. 
+R Programming 
+CO1: To use R Studio and explore the features for R programming. 
+CO2: To use R functions and graphics within R programming for 
+solving problems. 
+CO3: To work with advanced graphics of R, import and use the 
+data and represent the data into tables. 
+CO4: To apply formatting on table, use Pipelines in application and 
+use strings, factors in R programmer. 
+CO5: To manipulate Data Frames and make use of Dates in R 
+application. 
+ 
+Environmental 
+Science 
+CO1: Ability to recognize and explain the importance of the 
+environment and its resources. 
+CO2: Knowledge about insights into ecology and biodiversity. 
+CO3: Recognize the cause and effects of environmental pollution 
+and other social issues. 
+CO4: Knowledge about population and its impact on the 
+environment. 
+CO5: Insight into environment management and sustainable 
+development. 
+ 
+  
+Course Outcomes  
+s 
+ 
+Course Name 
+Course Outcomes 
+Calculus 
+CO1: Quickly and easily find the derivative of a function. 
+CO2: Perform integration of functions with ease. 
+CO3: Apply the knowledge of derivatives and integration to 
+different domains and obtain the results. 
+CO4: Apply the knowledge of multiple integrals and polar 
+coordinates to solve real life problems with ease. 
+CO5: Use partial derivatives and differential equations to solve 
+variety of problems. 
+ 
+  
+Course Outcomes  
+ 
+ 
+Program Name and 
+Semester 
+ 
+Bachelor of Science in Data Science (B.Sc.DS) 
+Semester -III 
+ 
+Course Name 
+Course Outcomes 
+Research Methods and 
+Ethics 
+CO1: Learner understands the reasons for doing research, the 
+applications of research, characteristics and requirements of the 
+research process, types of research and Research paradigms. 
+CO2: Learner is applying major approaches to information gathering, 
+the relationship between attitudinal and measurement scales Methods 
+for exploring attitudes in research. 
+CO3: Learner is able to analyze data in qualitative and quantitative 
+studies, application of IT in data analysis. 
+CO4: Learner is able to write a research report and use Information 
+Technology in Research 
+CO5:Learneris practicing ethical codes and practices of conduct 
+research. 
+Data Structures and 
+Algorithms Using 
+Python 
+CO1: Learner is capable of choosing appropriate data structure in 
+Python for specified problems and algorithms. 
+CO2: Learner is able to implement Linked list and Stack data structure 
+in various domains. 
+CO3: Learner is able to implement Tree and Queue data structures and 
+use their operation. 
+CO4: Learner has ability to apply of Hashing techniques, Symbol Table 
+and Graph Algorithms appropriately. 
+CO5: Learner has skills to handle sorting, searching and pattern 
+matching on various data structures 
+Economics 
+CO1: Learner understands the basic economic decisions that underline 
+the economic process: What and how to produce goods and services 
+and how they are distributed. 
+CO2: Learner is able to apply of the concepts of scarcity, choice and 
+opportunity cost to analyze the workings of a market economy. 
+CO3: Learner is able to demonstrate a firm knowledge of the 
+interrelationships among consumers, government, business and the rest 
+of the world in the U.S. macro economy. 
+CO4: Learner is able to identify the process of how the nation‘s output 
+of goods and services is measured through the national income and 
+product accounts; clearly comprehend the income and expenditure 
+approaches to measuring national output and national income. 
+CO5: Learner is capable to clearly illustrate the specific roles and 
+functions of monetary and fiscal policy in the economy and explain 
+how these are applied to the process of shaping economic policy and 
+stabilizing the economy, specifically regarding controlling inflation, 
+promoting full employment and facilitating economic growth 
+Data Warehouse and 
+Mining 
+CO1: Learner is able to demonstrate knowledge of business 
+intelligence, data warehouse with clear understanding of architectural 
+types and will be able to establish the relationship between architectural 
+ 
+  
+Course Outcomes  
+ 
+ 
+Course Name 
+Course Outcomes 
+building blocks. 
+CO2: Learner is able to elaborate changing dimensions with respect to 
+current trends & using aggregate tables. 
+CO3: Learner is able to handle the processes of data preprocessing, data 
+transformation and data reduction. 
+CO4: Learner has knowledge of using various Data Mining techniques 
+for classification and clustering. 
+CO5: Learner is able to align the Data Mining techniques for analyzing 
+the datasets using tools like Weka, R or Python 
+Linear Algebra and 
+Discrete Mathematics 
+CO 1: Learner is able to perform common matrix operations such as 
+addition, scalar multiplication, multiplication, and transposition. 
+CO 2: Learner is able to describe how the determinant of a product of 
+matrices relates to the determinant of the individual matrices. 
+CO3: Learner expresses clear understanding of the concept of a 
+solution to a game’ and also the limitations on the applicability of the 
+theory 
+ 
+  
+Course Outcomes  
+ 
+ 
+Program Name and 
+Semester 
+ 
+Bachelor of Science in Data Science (B.Sc.DS) 
+Semester -IV 
+ 
+Course Name 
+Course Outcomes 
+Testing of 
+Hypothesis 
+CO1: Learner is developing null and alternative hypotheses to test for 
+a given situation. 
+CO2: Learner is able to differentiate one- and two-tailed hypothesis 
+tests. 
+CO3: Learner is able to do sampling a normal distribution and random 
+sampling. 
+CO4: Learner is using statistical models and their associations in 
+performing hypothesis testing. 
+CO 5: Learner is writing the reports and interpreting the data using the 
+various programming languages and packages 
+Big Data 
+CO1: Learner understands the key issues in big data management and 
+its associated applications in intelligent business and scientific 
+computing.  
+CO2: Lerner is acquiring fundamental techniques and algorithms like 
+Hadoop, Map Reduce and NO SQL in big data analytics.  
+CO3: Learner is able to interpret business models and scientific 
+computing paradigms, and apply software tools for big data analytics. 
+CO 4: Learner understands adequate perspectives of big data analytics 
+in various applications like recommender systems, social media 
+applications etc 
+Fundamentals of 
+Accounting 
+CO1: Lerner understands the laws governing the business, typical 
+business administration schemes, and the ethics of accountancy, 
+statistics, and accounting theory.  
+CO2: Learner implements the record keeping of financial transactions 
+and further implementations in relevant areas. 
+ 
+Artificial Intelligence 
+CO 1: Leaner understands building blocks of AI.  
+CO2: Learner is analyzing problem and solving it by implementing 
+suitable techniques.  
+CO3: Learner is applying logic-based techniques to solve examples.  
+CO4: Learner can implement Bayesian approaches.  
+CO5: Learner is using machine learning concepts for solving problems. 
+ 
+Numerical Methods 
+CO1: Learner implementing Numerical Methods to solve the problems.  
+CO2: Learner is computing the numerical results using raw data.  
+CO3: Learner will interpret different numerical and integration.  
+CO4: Learner will evaluate Numerical Solution of Initial-Value. 
+CO5: Learner will learn Matrix Eigenvalue. 
+ 
+ 
+ 
+ 
+  
+Course Outcomes  
+ 
+ 
+Program Name and 
+Semester 
+  
+Bachelor of Science in Data Science (B.Sc.DS) 
+Semester -V 
+  
+Course Name 
+Course Outcomes 
+Computer Vision 
+CO1: Understand the fundamentals of image formation.  
+CO2: Use and Demonstrate operations of Image Processing.  
+CO3: Relate and Explain various features of Image.  
+CO4: Understand, Identify and Examine various image patterns.  
+CO5: Design and develop practical and innovative image 
+processing and computer vision applications or systems. 
+  
+Data Engineering 
+CO1: To remember and explain the Data Engineering basics and 
+Lifecycle.  
+CO2: To apply the Data Architecture Design with various options 
+available.  
+CO3: To create the Data from source and make use of Storage.  
+CO4: To understand Ingestion process and know about Queries, 
+Modeling, and Transformation.  
+CO5: To Illustrate Data Analytics, Machine Learning and to 
+Explain the importance of Security and Privacy. 
+  
+Robotic Process 
+Automation   
+CO1: Understand and implement the mechanism of business 
+process and can provide the solution in an optimize way.   
+CO2: Apply the features use for interacting with database plugins.   
+CO3: Apply and Use the plug-ins and other controls used for 
+process automation.   
+CO4: Implement and handle the different events, debugging and 
+managing the errors.   
+CO5: Test and deploy the automated process. 
+  
+Campus to Corporate 
+CO1: Apply active listening techniques and overcome barriers to 
+become a better listener.  
+CO2: Demonstrate improved speaking skills with clarity, 
+confidence, and fluency.  
+CO3: Utilize interview techniques to enhance job interview 
+performance and create impactful résumés.  
+CO4: Apply interpersonal communication skills to build effective 
+relationships and manage conflicts in professional settings.  
+CO5: Effectively deliver negative news messages, develop crisis 
+communication plans, and handle press conferences in challenging 
+situations. 
+  
+Social Media 
+Analytics 
+CO1: Demonstrate a comprehensive understanding of social 
+media analytics concepts, theories, and tools.  
+CO2: Apply various social media analytics techniques to extract 
+insights and make informed decisions.  
+ 
+  
+Course Outcomes  
+ 
+ 
+CO3: Perform social network analysis to uncover patterns, 
+relationships, and influential nodes within social networks.  
+CO4: Utilize text analytics methods to extract meaningful 
+information from social media text data.  
+CO5: Design and implement recommender systems for social 
+media platforms, considering user preferences and item 
+similarities to enhance user experiences. 
+  
+  
+  
+Program Name and 
+Semester 
+  
+Bachelor of Science in Data Science (B.Sc.DS) 
+Semester -VI 
+  
+Course Name 
+Course Outcomes 
+Machine Learning 
+CO1: Understand the foundational concepts and principles of 
+Machine Learning  
+CO2: Apply supervised and unsupervised learning techniques, 
+including classification algorithms and clustering algorithms   
+CO3: Evaluate the performance of Machine Learning models 
+using classification metrics, ROC/AUC curve analysis, and cross-
+validation techniques.  
+CO4: Implement regression models (such as linear regression and 
+logistic regression) and understand their applications in predictive 
+analysis.  
+CO5: Utilize dimensionality reduction techniques (Like PCA) for 
+feature reduction and selection, and apply association rule mining 
+algorithms (such as the Apriori algorithm) for discovering 
+meaningful patterns in datasets. 
+  
+Exploratory Data 
+Analysis 
+CO1: Understand importance of data and its types in Exploratory 
+Data Analysis.   
+CO2: Classify EDA and summary statistics in context of 
+interpretation.   
+CO3: Understand the significance of missing value imputations in 
+better EDA interpretations.   
+CO4: Analyse the measure of central tendency in describing the 
+quick view of data set.   
+CO5: Categorize measure of dispersion and its interpretation in 
+spread ness of data.   
+  
+Internet of Things 
+CO1: Describe what IoT is and how it works today and Recognise 
+the factors that contributed to the emergence of IoT  
+CO2: Design and program IoT devices and Use real IoT protocols 
+for communication  
+ 
+  
+Course Outcomes  
+ 
+ 
+CO3: Secure the elements of an IoT device  
+CO4: Design an IoT device to work with a Cloud Computing 
+infrastructure.  
+CO5: Transfer IoT data to the cloud and in between cloud 
+providers and Define the infrastructure for supporting IoT 
+deployments 
+  
+Applied Business 
+Analytics 
+CO1: Understand basics of statistical concepts like probability 
+distribution, hypothesis testing etc.  
+CO2: Experiment with Business Intelligence Tools for Data 
+Analysis.  
+CO3: Make use of the business analytics methods for discovering 
+the knowledge  
+CO4: Apply Regression Analysis with Time Series Analysis and 
+forecasting  
+CO5: Apply and Construct various modelling techniques for 
+Optimization and simulation. 
+  
+Healthcare Analytics 
+CO1: Remember and relate Healthcare Analytic basics.  
+CO2: Understand and Experiment with the attributes of Electronic 
+Medical Record to learn about Computing Foundation.  
+CO3: Apply and Evaluate Measuring Techniques of Healthcare 
+Quality.  
+CO4: Design and Build Predictive Models in Healthcare.  
+CO5: Discuss and Modify Various Healthcare Predictive Models 
+and learn about Healthcare and Emerging Technologies. 
+  
+ 
+ 

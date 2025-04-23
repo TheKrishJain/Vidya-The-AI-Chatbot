@@ -1,0 +1,61 @@
+ 
+ 
+                                   UNIVERSITY OF MUMBAI                                                       NOVEMBER 4, 2020 
+     FINAL OFFICE REGISTER FOR THE B. Sc. (Information Technology) (Semester-V) (CBCGS) (7 GRADE POINT) EXAMINATION  SEPTEMBER 2020 
+                                COLLEGE :  640 Vidyalankar School of Information Technology                   PAGE :   64 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+ SEAT_NO  NAME                                                         PRN                                CENTRE 
+     <-----Course-I----->   <-----Course-II----->  <-----Course-III----> <-----Course-IV-----> <-----Course-V------>  
+     Th(75/30)              Th(75/30)              Th(75/30)             Th(75/30)             Th(75/30)                   TOTAL 
+     In(25/10)              In(25/10)              In(25/10)             In(25/10)             In(25/10)                   MARKS  RESULT  REMARK 
+     TOT    GP G   C G*C    TOT    GP G   C  G*C   TOT    GP G   C  G*C  TOT   GP  G   C  G*C  TOT    GP  G   C  G*C    äC  äCG   GPA    GRADE  
+     Pr(50/20)              Pr(50/20)              Pr(50/20)             Pr(50/20)             Pr(50/20)          
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  1:Software Project Mgmt.     2:Internet of Things          3:Advanced Web Programming    4:Artificial Intelligence     6:Enterprise Java           
+  8:Project Dissertation       9:Internet of Things (PR)    10:Advanced Web Prog. (PR)    11:Artificial Intellige (PR)  13:Enterprise Java (PR)      
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  4056317  DOLAS PRASAD ARUN SUVARNA                             (2015016401019007)                   2:DADAR              
+ 
+      39                     32+                    66                    69                    33+            
+      13+                    10+                    10+                   11+                   10+            
+      52     4  C   2   8    42     2  E   2   4    76     7  O   2  14   80    7   O   2  14   43     2   E   2   4         445      P 
+      40+    7  O   2  14    35+    7  O   2  14    21+    2  E   2   4   20+   2   E   2   4   36+    7   O   2  14     20   94   4.70  C  
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  4056325  GUNAWANTHAGIRI VIKAS ARJUN SAUBHAGYA                  (2015016401021544)                   2:DADAR              
+ 
+      33                     60                     30+                   57                    30+            
+      20+                    10+                    10+                   12+                   11+            
+      53     4  C   2   8    70     7  O   2  14    40     2  E   2   4   69    6   A   2  12   41     2   E   2   4         448      P 
+      30+    6  A   2  12    40+    7  O   2  14    21+    2  E   2   4   38+   7   O   2  14   46+    7   O   2  14     20  100   5.00  B  
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  4056345  M AJITH  JAYANTHI                                     (2015016401019916)                   2:DADAR              
+ 
+      30+                    30+                    48                    38+                   40+            
+      18+                    14+                    17+                   17+                   14+            
+      48     3  D   2   6    44     2  E   2   4    65     6  A   2  12   55    5   B   2  10   54     4   C   2   8         390      P 
+      35+    7  O   2  14    20+    2  E   2   4    27+    4  C   2   8   20+   2   E   2   4   22+    2   E   2   4     20   74   3.70  D  
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  1:Software Project Mgmt.     2:Internet of Things          3:Advanced Web Programming    4:Artificial Intelligence     7:Next Generation Tech.     
+  8:Project Dissertation       9:Internet of Things (PR)    10:Advanced Web Prog. (PR)    11:Artificial Intellige (PR)  14:Next Generation Tech.(PR) 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  4056398  BHATKAR MOHMAD SUHEL SAMIR SHABNAM                    (2015016401011623)                   2:DADAR              
+ 
+      30                     30+                    60                    57                    72  
+      18+                    12+                    12+                   13+                   11+            
+      48     3  D   2   6    42     2  E   2   4    72     7  O   2  14   70    7   O   2  14   83     7   O   2  14         493      P 
+      42+    7  O   2  14    35+    7  O   2  14    31+    6  A   2  12   42+   7   O   2  14   28+    5   B   2  10     20  116   5.80  B  
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+  4056399  BHOIR AKSHAY VIJAY GEETA                              (2015016401019441)                   2:DADAR              
+ 
+      51                     32+                    66                    75                    30+            
+      17+                    12+                    15+                   15+                   15+            
+      68     6  A   2  12    44     2  E   2   4    81     7  O   2  14   90    7   O   2  14   45     3   D   2   6         509      P 
+      42+    7  O   2  14    30+    6  A   2  12    30+    6  A   2  12   40+   7   O   2  14   39+    7   O   2  14     20  116   5.80  B  
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
+ #:0.229; @:O.5042A/O.5043A/O.5044A; *:O.5045A; /:FEMALE; AA/ABS: ABSENT; P: SUCCESSFUL; F: UNSUCCESSFUL; E: EXMP CAN BE CLAIMED; 
+ ~: Dyslexia; +: MARKS CARRIED FORWARD; $: GRADE CARRIED FORWARD; RCC: O.5050; RPV: PROVISIONAL; NULL: NULL & VOID.; 
+ RR: RESERVED; ADC: ADMISSION CANCELLED; C: CREDIT POINTS; G: GRADE POINTS; GPA: GRADE POINT AVERAGE=SUM OF CxG / SUM OF C; 
+ %Marks        :  Above 70       60-69.99      55-59.99         50-54.99       45-49.99         40-44.99        Less than 40 
+ Grade / Gr.Pt :   O / 7          A / 6         B / 5            C / 4          D / 3            E / 2              F / 0 
+ ------------------------------------------------------------------------------------------------------------------------------------------------- 
